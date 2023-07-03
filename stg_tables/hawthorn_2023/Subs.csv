@@ -1,38 +1,38 @@
-Player,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R15,Tot
-"Amon, Karl",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Blanck, James",-,-,,,,,,,Off,-,-,-,-,-,0/1
-"Bramble, Lachlan",-,-,On,,,,,On,On,-,-,-,-,-,3/0
-"Breust, Luke",-,-,-,-,-,-,-,,-,-,-,-,Off,-,0/1
-"Brockman, Tyler",,,-,Off,-,-,-,-,,-,Off,-,-,-,0/2
-"Butler, Sam",,On,,,,,,,-,-,-,-,-,On,2/0
-"Day, Will",-,-,-,-,,,-,-,-,-,-,-,-,-,
-"Frost, Sam",-,-,-,-,-,-,-,-,-,-,-,-,,-,
-"Grainger-Barras, Denver",,,,,-,-,,,,,,,,,
-"Greene, Fergus",-,-,-,-,-,-,-,Off,,,,,,,0/1
-"Hardwick, Blake",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Impey, Jarman",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Jiath, Changkuoth",-,-,-,-,-,-,-,,-,,,,,,
-"Koschitzke, Jacob",Off,-,,,,,,,-,-,-,-,-,-,0/1
-"Lewis, Mitch",,,,,,,-,-,-,-,-,-,-,-,
-"Long, Ned",,,,,-,-,,,,,,,,,
-"Lynch, Max",,,,,,Off,,,,,,,,,0/1
-"Macdonald, Bailey",,,,,,,,,,,,-,,,
-"Macdonald, Connor",-,-,-,-,-,-,,-,,On,On,-,-,-,2/0
-"Mackenzie, Cam",-,-,-,-,On,-,,,-,-,-,On,On,-,3/0
-"Maginness, Finn",-,-,Off,-,,,,,,,,,,,0/1
-"Meek, Lloyd",-,-,-,-,-,,,-,-,-,-,Off,-,Off,0/2
-"Mitchell, Seamus",,,,,-,-,Off,-,-,-,-,,-,-,0/1
-"Moore, Dylan",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Morrison, Harry",,,-,-,-,-,-,-,-,,,,,,
-"Nash, Conor",On,-,-,-,-,-,-,-,-,-,-,-,-,-,1/0
-"Newcombe, Jai",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Ramsden, Max",,,,,,,-,,,,,,,,
-"Reeves, Ned",-,Off,-,-,-,-,-,-,,Off,-,-,-,-,0/2
-"Scrimshaw, Jack",,,-,-,,On,On,-,,,,-,-,-,2/0
-"Sicily, James",-,-,-,-,-,-,-,-,-,-,-,,-,,
-"Ward, Josh",-,-,-,-,-,,-,-,,,,,,,
-"Weddle, Josh",,,,,,,-,-,-,-,-,-,-,-,
-"Wingard, Chad",-,,,On,Off,-,-,-,-,,,,,,1/1
-"Worpel, James",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-Totals,,,,,,,,,,,,,,,
-Opponent,ES,SY,NM,GE,GW,AD,WB,FR,ME,WC,SK,PA,BL,GC,
+Player,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R15,R16,Tot
+"Amon, Karl",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Blanck, James",-,-,,,,,,,Off,-,-,-,-,-,-,0/1
+"Bramble, Lachlan",-,-,On,,,,,On,On,-,-,-,-,-,,3/0
+"Breust, Luke",-,-,-,-,-,-,-,,-,-,-,-,Off,-,-,0/1
+"Brockman, Tyler",,,-,Off,-,-,-,-,,-,Off,-,-,-,,0/2
+"Butler, Sam",,On,,,,,,,-,-,-,-,-,On,-,2/0
+"Day, Will",-,-,-,-,,,-,-,-,-,-,-,-,-,-,
+"Frost, Sam",-,-,-,-,-,-,-,-,-,-,-,-,,-,-,
+"Grainger-Barras, Denver",,,,,-,-,,,,,,,,,,
+"Greene, Fergus",-,-,-,-,-,-,-,Off,,,,,,,-,0/1
+"Hardwick, Blake",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Impey, Jarman",-,-,-,-,-,-,-,-,-,-,-,-,-,-,,
+"Jiath, Changkuoth",-,-,-,-,-,-,-,,-,,,,,,,
+"Koschitzke, Jacob",Off,-,,,,,,,-,-,-,-,-,-,,0/1
+"Lewis, Mitch",,,,,,,-,-,-,-,-,-,-,-,-,
+"Long, Ned",,,,,-,-,,,,,,,,,,
+"Lynch, Max",,,,,,Off,,,,,,,,,,0/1
+"Macdonald, Bailey",,,,,,,,,,,,-,,,,
+"Macdonald, Connor",-,-,-,-,-,-,,-,,On,On,-,-,-,-,2/0
+"Mackenzie, Cam",-,-,-,-,On,-,,,-,-,-,On,On,-,,3/0
+"Maginness, Finn",-,-,Off,-,,,,,,,,,,,On,1/1
+"Meek, Lloyd",-,-,-,-,-,,,-,-,-,-,Off,-,Off,-,0/2
+"Mitchell, Seamus",,,,,-,-,Off,-,-,-,-,,-,-,-,0/1
+"Moore, Dylan",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Morrison, Harry",,,-,-,-,-,-,-,-,,,,,,-,
+"Nash, Conor",On,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1/0
+"Newcombe, Jai",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Ramsden, Max",,,,,,,-,,,,,,,,,
+"Reeves, Ned",-,Off,-,-,-,-,-,-,,Off,-,-,-,-,Off,0/3
+"Scrimshaw, Jack",,,-,-,,On,On,-,,,,-,-,-,-,2/0
+"Sicily, James",-,-,-,-,-,-,-,-,-,-,-,,-,,,
+"Ward, Josh",-,-,-,-,-,,-,-,,,,,,,-,
+"Weddle, Josh",,,,,,,-,-,-,-,-,-,-,-,-,
+"Wingard, Chad",-,,,On,Off,-,-,-,-,,,,,,-,1/1
+"Worpel, James",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+Totals,,,,,,,,,,,,,,,,
+Opponent,ES,SY,NM,GE,GW,AD,WB,FR,ME,WC,SK,PA,BL,GC,CA,

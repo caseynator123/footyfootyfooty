@@ -1,39 +1,39 @@
-Player,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,Tot
-"Acres, Blake",-,-,-,,-,-,-,-,-,-,-,-,-,-,
-"Boyd, Jordan",,,,,,,,,,-,-,-,-,-,
-"Carroll, Jack",,,,On,,,,,,,,,,,1/0
-"Cerra, Adam",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Cincotta, Alex",,,,,,-,-,-,-,,,-,-,-,
-"Cottrell, Matthew",,,,,,,,,-,-,-,-,-,-,
-"Cowan, Lachlan",Off,-,-,-,-,-,,,,,,,,,0/1
-"Cripps, Patrick",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Cuningham, David",,,,,,,,,,,,,,-,
-"Curnow, Charlie",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Curnow, Ed",-,-,-,-,-,Off,-,-,On,-,On,,-,,2/1
-"De Koning, Tom",-,-,-,-,-,,,,,,-,-,-,-,
-"Docherty, Sam",-,-,-,-,,,-,-,-,-,-,-,-,-,
-"Dow, Paddy",,,,,,,,,,,,On,On,On,3/0
-"Durdin, Corey",,-,-,-,-,-,-,-,-,-,-,,,,
-"Fisher, Zac",-,-,-,-,-,-,-,,,,,-,,,
-"Fogarty, Lachie",,,,,,,,,,,,,,-,
-"Hewett, George",-,,-,-,-,-,-,-,-,On,Off,,,,1/1
-"Hollands, Oliver",-,-,-,-,-,-,-,-,Off,Off,-,,,,0/2
-"Honey, Josh",,,,-,On,-,-,-,,,,,,,1/0
-"Kemp, Brodie",,,,,,,-,-,,,-,-,-,-,
-"Kennedy, Matthew",-,-,,,-,-,On,On,-,-,-,-,-,-,2/0
-"Martin, Jack",-,,,,,,,,,,,,Off,Off,0/2
-"McGovern, Mitch",-,-,-,Off,,-,-,-,-,-,-,-,-,-,0/1
-"McKay, Harry",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Motlop, Jesse",-,-,-,-,-,-,,-,-,-,-,-,-,,
-"Newman, Nic",-,-,-,-,-,-,-,-,-,-,-,,,-,
-"OBrien, Lochie",On,On,On,-,,On,,,,,,-,,,4/0
-"Owies, Matthew",-,-,Off,,,,,,-,-,-,-,-,-,0/1
-"Pittonet, Marc",,-,-,-,Off,-,-,-,-,-,-,,,-,0/1
-"Plowman, Lachie",,,,,-,,,,,,,,,,
-"Saad, Adam",-,-,-,-,-,,Off,-,-,-,-,-,-,-,0/1
-"Silvagni, Jack",-,Off,-,-,-,-,-,-,-,-,,Off,-,,0/2
-"Walsh, Sam",,,,,-,-,-,-,-,-,-,-,-,-,
-"Weitering, Jacob",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Young, Lewis",-,-,-,-,-,-,-,Off,-,-,,-,-,,0/1
-Totals,,,,,,,,,,,,,,,
-Opponent,RI,GE,GW,NM,AD,SK,WC,BL,WB,CW,SY,ME,ES,GC,
+Player,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R16,Tot
+"Acres, Blake",-,-,-,,-,-,-,-,-,-,-,-,-,-,-,
+"Boyd, Jordan",,,,,,,,,,-,-,-,-,-,-,
+"Carroll, Jack",,,,On,,,,,,,,,,,,1/0
+"Cerra, Adam",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Cincotta, Alex",,,,,,-,-,-,-,,,-,-,-,-,
+"Cottrell, Matthew",,,,,,,,,-,-,-,-,-,-,,
+"Cowan, Lachlan",Off,-,-,-,-,-,,,,,,,,,,0/1
+"Cripps, Patrick",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Cuningham, David",,,,,,,,,,,,,,-,-,
+"Curnow, Charlie",-,-,-,-,-,-,-,-,-,-,-,-,-,-,Off,0/1
+"Curnow, Ed",-,-,-,-,-,Off,-,-,On,-,On,,-,,-,2/1
+"De Koning, Tom",-,-,-,-,-,,,,,,-,-,-,-,,
+"Docherty, Sam",-,-,-,-,,,-,-,-,-,-,-,-,-,-,
+"Dow, Paddy",,,,,,,,,,,,On,On,On,,3/0
+"Durdin, Corey",,-,-,-,-,-,-,-,-,-,-,,,,,
+"Fisher, Zac",-,-,-,-,-,-,-,,,,,-,,,,
+"Fogarty, Lachie",,,,,,,,,,,,,,-,-,
+"Hewett, George",-,,-,-,-,-,-,-,-,On,Off,,,,On,2/1
+"Hollands, Oliver",-,-,-,-,-,-,-,-,Off,Off,-,,,,,0/2
+"Honey, Josh",,,,-,On,-,-,-,,,,,,,,1/0
+"Kemp, Brodie",,,,,,,-,-,,,-,-,-,-,-,
+"Kennedy, Matthew",-,-,,,-,-,On,On,-,-,-,-,-,-,-,2/0
+"Martin, Jack",-,,,,,,,,,,,,Off,Off,-,0/2
+"McGovern, Mitch",-,-,-,Off,,-,-,-,-,-,-,-,-,-,-,0/1
+"McKay, Harry",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Motlop, Jesse",-,-,-,-,-,-,,-,-,-,-,-,-,,,
+"Newman, Nic",-,-,-,-,-,-,-,-,-,-,-,,,-,-,
+"OBrien, Lochie",On,On,On,-,,On,,,,,,-,,,,4/0
+"Owies, Matthew",-,-,Off,,,,,,-,-,-,-,-,-,-,0/1
+"Pittonet, Marc",,-,-,-,Off,-,-,-,-,-,-,,,-,,0/1
+"Plowman, Lachie",,,,,-,,,,,,,,,,,
+"Saad, Adam",-,-,-,-,-,,Off,-,-,-,-,-,-,-,-,0/1
+"Silvagni, Jack",-,Off,-,-,-,-,-,-,-,-,,Off,-,,-,0/2
+"Walsh, Sam",,,,,-,-,-,-,-,-,-,-,-,-,-,
+"Weitering, Jacob",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Young, Lewis",-,-,-,-,-,-,-,Off,-,-,,-,-,,-,0/1
+Totals,,,,,,,,,,,,,,,,
+Opponent,RI,GE,GW,NM,AD,SK,WC,BL,WB,CW,SY,ME,ES,GC,HW,

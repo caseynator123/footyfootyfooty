@@ -1,37 +1,38 @@
-Player,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,Tot
-"Baker, Oskar",-,-,-,-,-,-,-,-,-,-,-,-,On,-,1/0
-"Bontempelli, Marcus",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Bruce, Josh",-,-,-,-,Off,,,,,,,,-,,0/1
-"Crozier, Hayden",,-,-,-,,,,,,,,,,,
-"Dale, Bailey",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Daniel, Caleb",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Darcy, Sam",-,Off,,,,,,,,,,,,,0/1
-"Duryea, Taylor",-,-,,,-,-,-,-,-,-,-,-,-,-,
-"English, Tim",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Garcia, Riley",,-,-,,,,,,,,,,,,
-"Gardner, Ryan",,,,,,,,-,-,-,-,-,,,
-"Hannan, Mitch",-,,,On,-,,,,,,On,,,-,2/0
-"Johannisen, Jason",-,,-,-,-,-,-,-,-,Off,,,,,0/1
-"Jones, Arthur",,,-,-,-,-,-,-,-,-,-,-,-,,
-"Jones, Liam",Off,-,-,-,-,-,-,-,-,-,-,-,-,Off,0/2
-"Keath, Alex",-,-,-,Off,,-,-,-,-,,,,-,-,0/1
-"Liberatore, Tom",-,-,-,-,-,-,,-,-,-,-,-,-,-,
-"Lobb, Rory",-,,Off,-,-,-,-,-,-,-,-,-,-,-,0/1
-"Macrae, Jack",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"McComb, Robbie",,On,On,-,,,,,,,,,,,2/0
-"McLean, Toby",On,-,,,On,Off,-,,,,,,,,2/1
-"McNeil, Lachlan",,,,,,On,-,On,On,On,Off,On,,On,6/1
-"Naughton, Aaron",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"OBrien, Tim",,,,,-,-,-,,,-,-,-,,-,
-"ODonnell, James",,,,,,,,,Off,-,-,-,Off,,0/2
-"Richards, Ed",-,-,-,-,-,-,-,-,-,-,-,Off,,,0/1
-"Scott, Anthony",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Smith, Bailey",-,-,-,-,,,-,-,-,-,-,-,-,-,
-"Treloar, Adam",-,,-,-,-,-,-,Off,,,,-,-,-,0/1
-"Ugle-Hagan, Jamarra",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-"Vandermeer, Laitham",,,,,,,,,,,,,-,-,
-"Weightman, Cody",,,,,-,-,-,-,-,-,-,-,-,-,
-"West, Rhylee",,-,,,,,,,,,,,-,-,
-"Williams, Bailey",-,-,-,-,-,-,-,-,-,-,-,-,-,-,
-Totals,,,,,,,,,,,,,,,
-Opponent,ME,SK,BL,RI,PA,FR,HW,GW,CA,AD,GC,GE,PA,NM,
+Player,R1,R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R16,Tot
+"Baker, Oskar",-,-,-,-,-,-,-,-,-,-,-,-,On,-,,1/0
+"Bontempelli, Marcus",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Bruce, Josh",-,-,-,-,Off,,,,,,,,-,,,0/1
+"Crozier, Hayden",,-,-,-,,,,,,,,,,,,
+"Dale, Bailey",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Daniel, Caleb",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Darcy, Sam",-,Off,,,,,,,,,,,,,,0/1
+"Duryea, Taylor",-,-,,,-,-,-,-,-,-,-,-,-,-,-,
+"English, Tim",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Garcia, Riley",,-,-,,,,,,,,,,,,,
+"Gardner, Ryan",,,,,,,,-,-,-,-,-,,,-,
+"Hannan, Mitch",-,,,On,-,,,,,,On,,,-,Off,2/1
+"Johannisen, Jason",-,,-,-,-,-,-,-,-,Off,,,,,,0/1
+"Jones, Arthur",,,-,-,-,-,-,-,-,-,-,-,-,,,
+"Jones, Liam",Off,-,-,-,-,-,-,-,-,-,-,-,-,Off,,0/2
+"Keath, Alex",-,-,-,Off,,-,-,-,-,,,,-,-,-,0/1
+"Liberatore, Tom",-,-,-,-,-,-,,-,-,-,-,-,-,-,-,
+"Lobb, Rory",-,,Off,-,-,-,-,-,-,-,-,-,-,-,-,0/1
+"Macrae, Jack",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"McComb, Robbie",,On,On,-,,,,,,,,,,,,2/0
+"McLean, Toby",On,-,,,On,Off,-,,,,,,,,,2/1
+"McNeil, Lachlan",,,,,,On,-,On,On,On,Off,On,,On,-,6/1
+"Naughton, Aaron",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"OBrien, Tim",,,,,-,-,-,,,-,-,-,,-,,
+"ODonnell, James",,,,,,,,,Off,-,-,-,Off,,-,0/2
+"Poulter, Caleb",,,,,,,,,,,,,,,-,
+"Richards, Ed",-,-,-,-,-,-,-,-,-,-,-,Off,,,,0/1
+"Scott, Anthony",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Smith, Bailey",-,-,-,-,,,-,-,-,-,-,-,-,-,-,
+"Treloar, Adam",-,,-,-,-,-,-,Off,,,,-,-,-,-,0/1
+"Ugle-Hagan, Jamarra",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+"Vandermeer, Laitham",,,,,,,,,,,,,-,-,-,
+"Weightman, Cody",,,,,-,-,-,-,-,-,-,-,-,-,-,
+"West, Rhylee",,-,,,,,,,,,,,-,-,On,1/0
+"Williams, Bailey",-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,
+Totals,,,,,,,,,,,,,,,,
+Opponent,ME,SK,BL,RI,PA,FR,HW,GW,CA,AD,GC,GE,PA,NM,FR,
