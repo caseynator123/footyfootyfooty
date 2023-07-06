@@ -1,608 +1,824 @@
-round,teams,disposals,odds,Player,home,away
-R17,richmond v sydney,15 or more,1.07,daniel rioli,RCH,SYD
-R17,richmond v sydney,15 or more,1.10,nick vlastuin,RCH,SYD
-R17,richmond v sydney,15 or more,1.11,shai bolton,RCH,SYD
-R17,richmond v sydney,15 or more,1.15,dustin martin,RCH,SYD
-R17,richmond v sydney,15 or more,1.24,trent cotchin,RCH,SYD
-R17,richmond v sydney,15 or more,1.25,nathan broad,RCH,SYD
-R17,richmond v sydney,15 or more,1.26,liam baker,RCH,SYD
-R17,richmond v sydney,15 or more,1.33,jack ross,RCH,SYD
-R17,richmond v sydney,15 or more,1.41,jack graham,RCH,SYD
-R17,richmond v sydney,15 or more,1.41,noah balta,RCH,SYD
-R17,richmond v sydney,15 or more,1.57,toby nankervis,RCH,SYD
-R17,richmond v sydney,15 or more,1.90,marlion pickett,RCH,SYD
-R17,richmond v sydney,15 or more,1.95,kamdyn mcintosh,RCH,SYD
-R17,richmond v sydney,15 or more,1.06,nick blakey,RCH,SYD
-R17,richmond v sydney,15 or more,1.07,james rowbottom,RCH,SYD
-R17,richmond v sydney,15 or more,1.08,jake lloyd,RCH,SYD
-R17,richmond v sydney,15 or more,1.19,angus sheldrick,RCH,SYD
-R17,richmond v sydney,15 or more,1.33,justin mcinerney,RCH,SYD
-R17,richmond v sydney,15 or more,1.35,isaac heeney,RCH,SYD
-R17,richmond v sydney,15 or more,1.35,robbie fox,RCH,SYD
-R17,richmond v sydney,15 or more,1.41,oliver florent,RCH,SYD
-R17,richmond v sydney,15 or more,1.49,braeden campbell,RCH,SYD
-R17,richmond v sydney,15 or more,1.55,dane rampe,RCH,SYD
-R17,richmond v sydney,15 or more,1.55,harry cunningham,RCH,SYD
-R17,richmond v sydney,15 or more,1.68,tom papley,RCH,SYD
-R17,richmond v sydney,15 or more,1.94,tom hickey,RCH,SYD
-R17,richmond v sydney,15 or more,2.95,hayden mclean,RCH,SYD
-R17,richmond v sydney,20 or more,1.29,jacob hopper,RCH,SYD
-R17,richmond v sydney,20 or more,1.48,shai bolton,RCH,SYD
-R17,richmond v sydney,20 or more,1.49,daniel rioli,RCH,SYD
-R17,richmond v sydney,20 or more,1.60,dustin martin,RCH,SYD
-R17,richmond v sydney,20 or more,1.69,nick vlastuin,RCH,SYD
-R17,richmond v sydney,20 or more,1.94,trent cotchin,RCH,SYD
-R17,richmond v sydney,20 or more,1.97,liam baker,RCH,SYD
-R17,richmond v sydney,20 or more,2.25,jack ross,RCH,SYD
-R17,richmond v sydney,20 or more,2.30,nathan broad,RCH,SYD
-R17,richmond v sydney,20 or more,2.55,jack graham,RCH,SYD
-R17,richmond v sydney,20 or more,3.00,noah balta,RCH,SYD
-R17,richmond v sydney,20 or more,3.05,toby nankervis,RCH,SYD
-R17,richmond v sydney,20 or more,5.75,kamdyn mcintosh,RCH,SYD
-R17,richmond v sydney,20 or more,6.50,marlion pickett,RCH,SYD
-R17,richmond v sydney,20 or more,1.11,luke parker,RCH,SYD
-R17,richmond v sydney,20 or more,1.16,callum mills,RCH,SYD
-R17,richmond v sydney,20 or more,1.16,errol gulden,RCH,SYD
-R17,richmond v sydney,20 or more,1.36,jake lloyd,RCH,SYD
-R17,richmond v sydney,20 or more,1.41,nick blakey,RCH,SYD
-R17,richmond v sydney,20 or more,1.49,james rowbottom,RCH,SYD
-R17,richmond v sydney,20 or more,1.78,angus sheldrick,RCH,SYD
-R17,richmond v sydney,20 or more,2.18,oliver florent,RCH,SYD
-R17,richmond v sydney,20 or more,2.25,justin mcinerney,RCH,SYD
-R17,richmond v sydney,20 or more,2.65,isaac heeney,RCH,SYD
-R17,richmond v sydney,20 or more,2.65,robbie fox,RCH,SYD
-R17,richmond v sydney,20 or more,3.05,dane rampe,RCH,SYD
-R17,richmond v sydney,20 or more,3.05,harry cunningham,RCH,SYD
-R17,richmond v sydney,20 or more,3.35,braeden campbell,RCH,SYD
-R17,richmond v sydney,20 or more,4.30,tom papley,RCH,SYD
-R17,richmond v sydney,25 or more,1.19,tim taranto,RCH,SYD
-R17,richmond v sydney,25 or more,2.25,jacob hopper,RCH,SYD
-R17,richmond v sydney,25 or more,2.55,shai bolton,RCH,SYD
-R17,richmond v sydney,25 or more,2.90,dustin martin,RCH,SYD
-R17,richmond v sydney,25 or more,3.15,daniel rioli,RCH,SYD
-R17,richmond v sydney,25 or more,3.90,nick vlastuin,RCH,SYD
-R17,richmond v sydney,25 or more,4.10,liam baker,RCH,SYD
-R17,richmond v sydney,25 or more,4.10,trent cotchin,RCH,SYD
-R17,richmond v sydney,25 or more,5.00,jack ross,RCH,SYD
-R17,richmond v sydney,25 or more,6.00,nathan broad,RCH,SYD
-R17,richmond v sydney,25 or more,6.50,jack graham,RCH,SYD
-R17,richmond v sydney,25 or more,7.75,toby nankervis,RCH,SYD
-R17,richmond v sydney,25 or more,10.00,noah balta,RCH,SYD
-R17,richmond v sydney,25 or more,1.56,luke parker,RCH,SYD
-R17,richmond v sydney,25 or more,1.60,errol gulden,RCH,SYD
-R17,richmond v sydney,25 or more,1.72,callum mills,RCH,SYD
-R17,richmond v sydney,25 or more,2.20,jake lloyd,RCH,SYD
-R17,richmond v sydney,25 or more,2.60,nick blakey,RCH,SYD
-R17,richmond v sydney,25 or more,3.15,james rowbottom,RCH,SYD
-R17,richmond v sydney,25 or more,3.45,angus sheldrick,RCH,SYD
-R17,richmond v sydney,25 or more,4.20,oliver florent,RCH,SYD
-R17,richmond v sydney,25 or more,5.10,justin mcinerney,RCH,SYD
-R17,richmond v sydney,25 or more,7.75,harry cunningham,RCH,SYD
-R17,richmond v sydney,25 or more,8.00,robbie fox,RCH,SYD
-R17,richmond v sydney,25 or more,8.25,isaac heeney,RCH,SYD
-R17,richmond v sydney,25 or more,8.75,dane rampe,RCH,SYD
-R17,richmond v sydney,25 or more,12.00,braeden campbell,RCH,SYD
-R17,richmond v sydney,30 or more,1.66,tim taranto,RCH,SYD
-R17,richmond v sydney,30 or more,4.90,shai bolton,RCH,SYD
-R17,richmond v sydney,30 or more,5.00,jacob hopper,RCH,SYD
-R17,richmond v sydney,30 or more,6.25,dustin martin,RCH,SYD
-R17,richmond v sydney,30 or more,9.00,daniel rioli,RCH,SYD
-R17,richmond v sydney,30 or more,9.75,liam baker,RCH,SYD
-R17,richmond v sydney,30 or more,9.75,trent cotchin,RCH,SYD
-R17,richmond v sydney,30 or more,12.50,jack ross,RCH,SYD
-R17,richmond v sydney,30 or more,12.50,nick vlastuin,RCH,SYD
-R17,richmond v sydney,30 or more,17.00,jack graham,RCH,SYD
-R17,richmond v sydney,30 or more,19.00,nathan broad,RCH,SYD
-R17,richmond v sydney,30 or more,21.00,toby nankervis,RCH,SYD
-R17,richmond v sydney,30 or more,2.55,errol gulden,RCH,SYD
-R17,richmond v sydney,30 or more,2.80,luke parker,RCH,SYD
-R17,richmond v sydney,30 or more,3.35,callum mills,RCH,SYD
-R17,richmond v sydney,30 or more,4.25,jake lloyd,RCH,SYD
-R17,richmond v sydney,30 or more,6.25,nick blakey,RCH,SYD
-R17,richmond v sydney,30 or more,7.50,angus sheldrick,RCH,SYD
-R17,richmond v sydney,30 or more,8.50,oliver florent,RCH,SYD
-R17,richmond v sydney,30 or more,9.50,james rowbottom,RCH,SYD
-R17,richmond v sydney,30 or more,12.50,justin mcinerney,RCH,SYD
-R17,richmond v sydney,30 or more,23.00,harry cunningham,RCH,SYD
-R17,richmond v sydney,30 or more,26.00,dane rampe,RCH,SYD
-R17,western-bulldogs v collingwood,15 or more,1.07,caleb daniel,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,1.21,tim english,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,1.38,bailey williams (wb),WBD,COL
-R17,western-bulldogs v collingwood,15 or more,2.10,laitham vandermeer,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,2.25,jamarra ugle-hagan,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,2.75,alex keath,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,2.80,taylor duryea,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,2.90,mitch hannan,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,3.00,aaron naughton,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,3.90,cody weightman,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,1.06,jordan de goey,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,1.10,john noble,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,1.13,jack crisp,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,1.16,patrick lipinski,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,1.18,taylor adams,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,1.34,isaac quaynor,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,1.38,jeremy howe,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,1.43,darcy moore,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,1.59,darcy cameron,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,1.78,will hoskin-elliott,WBD,COL
-R17,western-bulldogs v collingwood,15 or more,1.97,oleg markov,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.08,marcus bontempelli,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.09,jack macrae,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.10,tom liberatore,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.18,bailey dale,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.22,bailey smith,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.41,caleb daniel,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,2.08,tim english,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,2.35,bailey williams (wb),WBD,COL
-R17,western-bulldogs v collingwood,20 or more,5.40,laitham vandermeer,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,8.00,jamarra ugle-hagan,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,9.00,alex keath,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,9.75,mitch hannan,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.08,tom mitchell,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.17,josh daicos,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.26,scott pendlebury,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.29,jordan de goey,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.68,john noble,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.70,jack crisp,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.91,taylor adams,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,1.94,patrick lipinski,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,2.60,darcy moore,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,2.70,isaac quaynor,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,3.15,jeremy howe,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,3.25,darcy cameron,WBD,COL
-R17,western-bulldogs v collingwood,20 or more,3.30,will hoskin-elliott,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,1.17,adam treloar,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,1.42,marcus bontempelli,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,1.52,tom liberatore,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,1.54,jack macrae,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,1.64,bailey dale,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,2.08,bailey smith,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,2.60,caleb daniel,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,5.40,tim english,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,5.50,bailey williams (wb),WBD,COL
-R17,western-bulldogs v collingwood,25 or more,19.00,laitham vandermeer,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,1.09,nick daicos,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,1.43,tom mitchell,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,1.74,josh daicos,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,1.97,jordan de goey,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,2.20,scott pendlebury,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,3.90,jack crisp,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,4.00,john noble,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,4.60,taylor adams,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,5.25,patrick lipinski,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,6.25,darcy moore,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,8.00,will hoskin-elliott,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,8.50,isaac quaynor,WBD,COL
-R17,western-bulldogs v collingwood,25 or more,9.00,darcy cameron,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,1.65,adam treloar,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,2.40,marcus bontempelli,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,2.65,bailey dale,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,2.85,jack macrae,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,2.90,tom liberatore,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,4.90,bailey smith,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,6.25,caleb daniel,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,13.00,bailey williams (wb),WBD,COL
-R17,western-bulldogs v collingwood,30 or more,17.00,tim english,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,1.37,nick daicos,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,2.40,tom mitchell,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,3.35,josh daicos,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,3.60,jordan de goey,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,5.40,scott pendlebury,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,10.00,jack crisp,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,12.50,john noble,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,14.00,taylor adams,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,16.00,darcy moore,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,18.00,patrick lipinski,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,19.00,will hoskin-elliott,WBD,COL
-R17,western-bulldogs v collingwood,30 or more,26.00,darcy cameron,WBD,COL
-R17,brisbane v west-coast,15 or more,1.25,keidean coleman,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.26,conor mckenna,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.31,zac bailey,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.43,darcy wilmot,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.44,jarrod berry,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.55,jaspa fletcher,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.57,joe daniher,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.67,oscar mcinerney,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.68,deven robertson,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.69,cam rayner,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.84,harris andrews,BRL,WCE
-R17,brisbane v west-coast,15 or more,2.15,ryan lester,BRL,WCE
-R17,brisbane v west-coast,15 or more,2.25,brandon starcevich,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.06,luke shuey,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.10,dom sheed,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.13,liam duggan,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.18,jack petruccelle,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.19,alex witherden,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.33,jayden hunt,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.45,andrew gaff,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.49,reuben ginbey,BRL,WCE
-R17,brisbane v west-coast,15 or more,1.96,bailey j. williams (wce),BRL,WCE
-R17,brisbane v west-coast,15 or more,1.96,brady hough,BRL,WCE
-R17,brisbane v west-coast,15 or more,2.02,tom barrass,BRL,WCE
-R17,brisbane v west-coast,15 or more,2.15,elijah hewett,BRL,WCE
-R17,brisbane v west-coast,15 or more,2.25,noah long,BRL,WCE
-R17,brisbane v west-coast,15 or more,2.90,jamie cripps,BRL,WCE
-R17,brisbane v west-coast,20 or more,1.06,josh dunkley,BRL,WCE
-R17,brisbane v west-coast,20 or more,1.13,hugh mccluggage,BRL,WCE
-R17,brisbane v west-coast,20 or more,1.24,will ashcroft,BRL,WCE
-R17,brisbane v west-coast,20 or more,2.25,conor mckenna,BRL,WCE
-R17,brisbane v west-coast,20 or more,2.25,keidean coleman,BRL,WCE
-R17,brisbane v west-coast,20 or more,2.55,darcy wilmot,BRL,WCE
-R17,brisbane v west-coast,20 or more,2.60,jarrod berry,BRL,WCE
-R17,brisbane v west-coast,20 or more,2.75,zac bailey,BRL,WCE
-R17,brisbane v west-coast,20 or more,3.70,joe daniher,BRL,WCE
-R17,brisbane v west-coast,20 or more,3.75,jaspa fletcher,BRL,WCE
-R17,brisbane v west-coast,20 or more,4.20,deven robertson,BRL,WCE
-R17,brisbane v west-coast,20 or more,4.25,harris andrews,BRL,WCE
-R17,brisbane v west-coast,20 or more,4.30,cam rayner,BRL,WCE
-R17,brisbane v west-coast,20 or more,4.30,oscar mcinerney,BRL,WCE
-R17,brisbane v west-coast,20 or more,6.25,brandon starcevich,BRL,WCE
-R17,brisbane v west-coast,20 or more,7.00,ryan lester,BRL,WCE
-R17,brisbane v west-coast,20 or more,1.17,tim kelly,BRL,WCE
-R17,brisbane v west-coast,20 or more,1.28,luke shuey,BRL,WCE
-R17,brisbane v west-coast,20 or more,1.31,shannon hurn,BRL,WCE
-R17,brisbane v west-coast,20 or more,1.35,dom sheed,BRL,WCE
-R17,brisbane v west-coast,20 or more,1.44,liam duggan,BRL,WCE
-R17,brisbane v west-coast,20 or more,1.76,alex witherden,BRL,WCE
-R17,brisbane v west-coast,20 or more,1.92,jack petruccelle,BRL,WCE
-R17,brisbane v west-coast,20 or more,2.20,jayden hunt,BRL,WCE
-R17,brisbane v west-coast,20 or more,2.30,andrew gaff,BRL,WCE
-R17,brisbane v west-coast,20 or more,3.35,reuben ginbey,BRL,WCE
-R17,brisbane v west-coast,20 or more,4.00,tom barrass,BRL,WCE
-R17,brisbane v west-coast,20 or more,4.10,bailey j. williams (wce),BRL,WCE
-R17,brisbane v west-coast,20 or more,6.00,brady hough,BRL,WCE
-R17,brisbane v west-coast,20 or more,7.00,elijah hewett,BRL,WCE
-R17,brisbane v west-coast,25 or more,1.19,lachie neale,BRL,WCE
-R17,brisbane v west-coast,25 or more,1.41,josh dunkley,BRL,WCE
-R17,brisbane v west-coast,25 or more,1.71,hugh mccluggage,BRL,WCE
-R17,brisbane v west-coast,25 or more,1.98,will ashcroft,BRL,WCE
-R17,brisbane v west-coast,25 or more,6.25,conor mckenna,BRL,WCE
-R17,brisbane v west-coast,25 or more,6.25,darcy wilmot,BRL,WCE
-R17,brisbane v west-coast,25 or more,6.25,keidean coleman,BRL,WCE
-R17,brisbane v west-coast,25 or more,6.50,jarrod berry,BRL,WCE
-R17,brisbane v west-coast,25 or more,9.50,zac bailey,BRL,WCE
-R17,brisbane v west-coast,25 or more,14.00,harris andrews,BRL,WCE
-R17,brisbane v west-coast,25 or more,14.00,jaspa fletcher,BRL,WCE
-R17,brisbane v west-coast,25 or more,14.00,joe daniher,BRL,WCE
-R17,brisbane v west-coast,25 or more,16.00,cam rayner,BRL,WCE
-R17,brisbane v west-coast,25 or more,17.00,deven robertson,BRL,WCE
-R17,brisbane v west-coast,25 or more,19.00,oscar mcinerney,BRL,WCE
-R17,brisbane v west-coast,25 or more,1.66,tim kelly,BRL,WCE
-R17,brisbane v west-coast,25 or more,1.96,dom sheed,BRL,WCE
-R17,brisbane v west-coast,25 or more,1.97,luke shuey,BRL,WCE
-R17,brisbane v west-coast,25 or more,2.18,liam duggan,BRL,WCE
-R17,brisbane v west-coast,25 or more,2.18,shannon hurn,BRL,WCE
-R17,brisbane v west-coast,25 or more,3.40,alex witherden,BRL,WCE
-R17,brisbane v west-coast,25 or more,4.60,andrew gaff,BRL,WCE
-R17,brisbane v west-coast,25 or more,4.80,jack petruccelle,BRL,WCE
-R17,brisbane v west-coast,25 or more,5.10,jayden hunt,BRL,WCE
-R17,brisbane v west-coast,25 or more,10.50,bailey j. williams (wce),BRL,WCE
-R17,brisbane v west-coast,25 or more,11.00,tom barrass,BRL,WCE
-R17,brisbane v west-coast,30 or more,1.67,lachie neale,BRL,WCE
-R17,brisbane v west-coast,30 or more,2.40,josh dunkley,BRL,WCE
-R17,brisbane v west-coast,30 or more,3.50,hugh mccluggage,BRL,WCE
-R17,brisbane v west-coast,30 or more,4.00,will ashcroft,BRL,WCE
-R17,brisbane v west-coast,30 or more,16.00,darcy wilmot,BRL,WCE
-R17,brisbane v west-coast,30 or more,17.00,jarrod berry,BRL,WCE
-R17,brisbane v west-coast,30 or more,19.00,conor mckenna,BRL,WCE
-R17,brisbane v west-coast,30 or more,21.00,keidean coleman,BRL,WCE
-R17,brisbane v west-coast,30 or more,2.70,tim kelly,BRL,WCE
-R17,brisbane v west-coast,30 or more,3.10,dom sheed,BRL,WCE
-R17,brisbane v west-coast,30 or more,3.50,luke shuey,BRL,WCE
-R17,brisbane v west-coast,30 or more,3.60,liam duggan,BRL,WCE
-R17,brisbane v west-coast,30 or more,4.90,shannon hurn,BRL,WCE
-R17,brisbane v west-coast,30 or more,7.25,alex witherden,BRL,WCE
-R17,brisbane v west-coast,30 or more,10.00,andrew gaff,BRL,WCE
-R17,brisbane v west-coast,30 or more,12.50,jayden hunt,BRL,WCE
-R17,greater-western-sydney v hawthorn,15 or more,1.06,lachie ash,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.08,finn callaghan,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.11,harry himmelberg,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.18,isaac cumming,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.19,nick haynes,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.20,callan ward,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.20,harry perryman,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.26,toby greene,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.46,connor idun,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.71,xavier o'halloran,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.80,daniel lloyd,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.96,toby bedford,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,2.10,kieren briggs,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,2.95,jesse hogan,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.07,josh ward,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.07,karl amon,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.11,blake hardwick,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.11,dylan moore,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.12,harry morrison,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.12,seamus mitchell,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.29,jack scrimshaw,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.32,josh weddle,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.43,connor macdonald,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,1.49,chad wingard,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,2.25,sam frost,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,2.35,mitch lewis,GWS,HAW
-R17,greater-western-sydney v hawthorn,15 or more,3.15,sam butler,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.08,josh kelly,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.09,stephen coniglio,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.16,lachie whitfield,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.40,lachie ash,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.46,harry himmelberg,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.52,finn callaghan,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.77,nick haynes,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.78,callan ward,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,2.08,isaac cumming,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,2.25,toby greene,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,2.30,harry perryman,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,3.40,connor idun,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,3.80,xavier o'halloran,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,4.80,daniel lloyd,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,6.00,toby bedford,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,6.75,kieren briggs,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.11,will day,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.17,james worpel,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.22,conor nash,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.23,jai newcombe,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.47,josh ward,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.51,karl amon,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.64,blake hardwick,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.70,dylan moore,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.70,seamus mitchell,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.82,harry morrison,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.89,jack scrimshaw,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,1.97,josh weddle,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,2.55,connor macdonald,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,3.40,chad wingard,GWS,HAW
-R17,greater-western-sydney v hawthorn,20 or more,5.50,mitch lewis,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,1.19,tom green,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,1.41,josh kelly,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,1.42,stephen coniglio,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,1.72,lachie whitfield,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,2.50,harry himmelberg,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,2.55,lachie ash,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,3.05,finn callaghan,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,3.45,callan ward,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,3.45,nick haynes,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,6.00,isaac cumming,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,6.00,toby greene,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,8.00,harry perryman,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,11.50,xavier o'halloran,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,14.00,connor idun,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,1.55,will day,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,1.63,james worpel,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,1.95,jai newcombe,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,1.96,conor nash,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,2.80,josh ward,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,3.20,karl amon,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,3.35,jack scrimshaw,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,3.50,blake hardwick,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,3.50,josh weddle,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,3.75,seamus mitchell,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,4.00,dylan moore,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,4.60,harry morrison,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,6.25,connor macdonald,GWS,HAW
-R17,greater-western-sydney v hawthorn,25 or more,11.50,chad wingard,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,1.67,tom green,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,2.35,josh kelly,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,2.35,stephen coniglio,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,3.35,lachie whitfield,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,4.90,harry himmelberg,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,6.25,lachie ash,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,7.50,callan ward,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,7.50,nick haynes,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,7.75,finn callaghan,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,19.00,toby greene,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,21.00,isaac cumming,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,2.65,james worpel,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,2.75,will day,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,4.00,conor nash,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,4.00,jai newcombe,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,6.25,jack scrimshaw,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,7.25,josh ward,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,7.25,josh weddle,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,9.00,karl amon,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,9.50,blake hardwick,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,10.00,seamus mitchell,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,13.00,dylan moore,GWS,HAW
-R17,greater-western-sydney v hawthorn,30 or more,14.00,harry morrison,GWS,HAW
-R17,st-kilda v melbourne,15 or more,1.08,jack steele,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.08,nasiah wanganeen-milera,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.11,mason wood,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.15,rowan marshall,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.31,jade gresham,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.32,ryan byrnes,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.33,marcus windhager,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.43,callum wilkie,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.49,liam stocker,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.53,jimmy webster,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.95,dougal howard,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.96,mitchito owens,STK,MEL
-R17,st-kilda v melbourne,15 or more,2.30,mattaes phillipou,STK,MEL
-R17,st-kilda v melbourne,15 or more,2.85,jack higgins,STK,MEL
-R17,st-kilda v melbourne,15 or more,3.80,dan butler,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.07,ed langdon,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.12,steven may,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.13,trent rivers,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.17,tom sparrow,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.22,jake bowey,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.45,max gawn,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.54,jake lever,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.65,alex neal-bullen,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.66,judd mcvee,STK,MEL
-R17,st-kilda v melbourne,15 or more,1.68,brodie grundy,STK,MEL
-R17,st-kilda v melbourne,15 or more,2.65,kysaiah pickett,STK,MEL
-R17,st-kilda v melbourne,20 or more,1.08,brad crouch,STK,MEL
-R17,st-kilda v melbourne,20 or more,1.37,jack steele,STK,MEL
-R17,st-kilda v melbourne,20 or more,1.38,nasiah wanganeen-milera,STK,MEL
-R17,st-kilda v melbourne,20 or more,1.68,mason wood,STK,MEL
-R17,st-kilda v melbourne,20 or more,1.93,rowan marshall,STK,MEL
-R17,st-kilda v melbourne,20 or more,2.20,marcus windhager,STK,MEL
-R17,st-kilda v melbourne,20 or more,2.55,callum wilkie,STK,MEL
-R17,st-kilda v melbourne,20 or more,2.75,jade gresham,STK,MEL
-R17,st-kilda v melbourne,20 or more,2.75,ryan byrnes,STK,MEL
-R17,st-kilda v melbourne,20 or more,3.35,liam stocker,STK,MEL
-R17,st-kilda v melbourne,20 or more,3.90,jimmy webster,STK,MEL
-R17,st-kilda v melbourne,20 or more,4.80,mitchito owens,STK,MEL
-R17,st-kilda v melbourne,20 or more,6.50,dougal howard,STK,MEL
-R17,st-kilda v melbourne,20 or more,9.25,mattaes phillipou,STK,MEL
-R17,st-kilda v melbourne,20 or more,1.13,jack viney,STK,MEL
-R17,st-kilda v melbourne,20 or more,1.16,angus brayshaw,STK,MEL
-R17,st-kilda v melbourne,20 or more,1.22,lachie hunter,STK,MEL
-R17,st-kilda v melbourne,20 or more,1.25,christian salem,STK,MEL
-R17,st-kilda v melbourne,20 or more,1.49,ed langdon,STK,MEL
-R17,st-kilda v melbourne,20 or more,1.71,trent rivers,STK,MEL
-R17,st-kilda v melbourne,20 or more,1.92,steven may,STK,MEL
-R17,st-kilda v melbourne,20 or more,1.95,tom sparrow,STK,MEL
-R17,st-kilda v melbourne,20 or more,2.30,jake bowey,STK,MEL
-R17,st-kilda v melbourne,20 or more,3.00,jake lever,STK,MEL
-R17,st-kilda v melbourne,20 or more,3.50,max gawn,STK,MEL
-R17,st-kilda v melbourne,20 or more,4.20,judd mcvee,STK,MEL
-R17,st-kilda v melbourne,20 or more,4.40,brodie grundy,STK,MEL
-R17,st-kilda v melbourne,20 or more,4.60,alex neal-bullen,STK,MEL
-R17,st-kilda v melbourne,25 or more,1.18,jack sinclair,STK,MEL
-R17,st-kilda v melbourne,25 or more,1.47,brad crouch,STK,MEL
-R17,st-kilda v melbourne,25 or more,2.18,jack steele,STK,MEL
-R17,st-kilda v melbourne,25 or more,2.20,nasiah wanganeen-milera,STK,MEL
-R17,st-kilda v melbourne,25 or more,4.00,mason wood,STK,MEL
-R17,st-kilda v melbourne,25 or more,5.10,marcus windhager,STK,MEL
-R17,st-kilda v melbourne,25 or more,5.20,rowan marshall,STK,MEL
-R17,st-kilda v melbourne,25 or more,6.50,callum wilkie,STK,MEL
-R17,st-kilda v melbourne,25 or more,9.50,ryan byrnes,STK,MEL
-R17,st-kilda v melbourne,25 or more,10.50,jade gresham,STK,MEL
-R17,st-kilda v melbourne,25 or more,12.50,liam stocker,STK,MEL
-R17,st-kilda v melbourne,25 or more,17.00,jimmy webster,STK,MEL
-R17,st-kilda v melbourne,25 or more,17.00,mitchito owens,STK,MEL
-R17,st-kilda v melbourne,25 or more,1.19,clayton oliver,STK,MEL
-R17,st-kilda v melbourne,25 or more,1.22,christian petracca,STK,MEL
-R17,st-kilda v melbourne,25 or more,1.50,jack viney,STK,MEL
-R17,st-kilda v melbourne,25 or more,1.73,angus brayshaw,STK,MEL
-R17,st-kilda v melbourne,25 or more,1.95,lachie hunter,STK,MEL
-R17,st-kilda v melbourne,25 or more,2.18,christian salem,STK,MEL
-R17,st-kilda v melbourne,25 or more,3.15,ed langdon,STK,MEL
-R17,st-kilda v melbourne,25 or more,3.90,trent rivers,STK,MEL
-R17,st-kilda v melbourne,25 or more,4.75,tom sparrow,STK,MEL
-R17,st-kilda v melbourne,25 or more,5.90,steven may,STK,MEL
-R17,st-kilda v melbourne,25 or more,7.00,jake bowey,STK,MEL
-R17,st-kilda v melbourne,25 or more,8.50,jake lever,STK,MEL
-R17,st-kilda v melbourne,25 or more,15.00,max gawn,STK,MEL
-R17,st-kilda v melbourne,25 or more,17.00,judd mcvee,STK,MEL
-R17,st-kilda v melbourne,30 or more,1.63,jack sinclair,STK,MEL
-R17,st-kilda v melbourne,30 or more,2.60,brad crouch,STK,MEL
-R17,st-kilda v melbourne,30 or more,4.10,jack steele,STK,MEL
-R17,st-kilda v melbourne,30 or more,4.25,nasiah wanganeen-milera,STK,MEL
-R17,st-kilda v melbourne,30 or more,12.50,marcus windhager,STK,MEL
-R17,st-kilda v melbourne,30 or more,12.50,mason wood,STK,MEL
-R17,st-kilda v melbourne,30 or more,16.00,callum wilkie,STK,MEL
-R17,st-kilda v melbourne,30 or more,17.00,rowan marshall,STK,MEL
-R17,st-kilda v melbourne,30 or more,1.65,clayton oliver,STK,MEL
-R17,st-kilda v melbourne,30 or more,1.83,christian petracca,STK,MEL
-R17,st-kilda v melbourne,30 or more,2.35,jack viney,STK,MEL
-R17,st-kilda v melbourne,30 or more,3.30,angus brayshaw,STK,MEL
-R17,st-kilda v melbourne,30 or more,3.90,lachie hunter,STK,MEL
-R17,st-kilda v melbourne,30 or more,5.30,christian salem,STK,MEL
-R17,st-kilda v melbourne,30 or more,9.50,ed langdon,STK,MEL
-R17,st-kilda v melbourne,30 or more,11.00,trent rivers,STK,MEL
-R17,st-kilda v melbourne,30 or more,14.00,tom sparrow,STK,MEL
-R17,st-kilda v melbourne,30 or more,23.00,jake lever,STK,MEL
-R17,st-kilda v melbourne,30 or more,23.00,steven may,STK,MEL
-R17,port-adelaide v gold-coast,15 or more,1.25,dylan williams,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.43,jason horne-francis,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.44,travis boak,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.48,jeremy finlayson,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.50,willem drew,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.59,ryan burton,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.61,kane farrell,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.74,riley bonner,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,2.12,darcy byrne-jones,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,2.15,miles bergman,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,2.30,aliir aliir,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,2.30,sam powell-pepper,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,2.95,charlie dixon,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.12,darcy macpherson,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.18,lachie weller,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.18,wil powell,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.19,brayden fiorini,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.19,matt rowell,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.20,sam flanders,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.35,david swallow,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.43,brandon ellis,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.49,ben ainsworth,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.63,jarrod witts,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.65,bailey humphrey,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.81,charlie ballard,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,1.94,jack lukosius,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,2.25,nick holman,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,2.90,mac andrew,POR,GCS
-R17,port-adelaide v gold-coast,15 or more,2.95,ben long,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,1.06,zak butters,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,1.16,connor rozee,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,1.19,dan houston,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,1.30,ollie wines,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,2.20,dylan williams,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,2.55,jason horne-francis,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,2.60,travis boak,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,2.85,kane farrell,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,3.25,jeremy finlayson,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,3.40,willem drew,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,3.75,riley bonner,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,3.80,ryan burton,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,5.50,darcy byrne-jones,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,6.75,miles bergman,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,7.75,sam powell-pepper,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,8.00,aliir aliir,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,1.06,noah anderson,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,1.16,touk miller,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,1.62,sam flanders,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,1.70,darcy macpherson,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,1.74,matt rowell,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,1.75,brayden fiorini,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,1.93,wil powell,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,1.94,lachie weller,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,2.55,brandon ellis,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,2.70,david swallow,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,3.30,jarrod witts,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,3.40,ben ainsworth,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,3.45,bailey humphrey,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,4.90,charlie ballard,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,5.80,jack lukosius,POR,GCS
-R17,port-adelaide v gold-coast,20 or more,6.25,nick holman,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,1.34,zak butters,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,1.62,connor rozee,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,1.93,dan houston,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,2.25,ollie wines,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,6.25,dylan williams,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,6.25,jason horne-francis,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,6.25,kane farrell,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,6.50,travis boak,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,11.00,riley bonner,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,11.50,jeremy finlayson,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,12.50,willem drew,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,14.00,ryan burton,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,19.00,darcy byrne-jones,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,1.42,noah anderson,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,1.72,touk miller,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,2.65,sam flanders,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,3.35,matt rowell,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,3.40,brayden fiorini,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,3.80,darcy macpherson,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,4.80,lachie weller,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,4.90,wil powell,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,6.25,brandon ellis,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,8.75,david swallow,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,9.25,jarrod witts,POR,GCS
-R17,port-adelaide v gold-coast,25 or more,9.75,bailey humphrey,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,2.10,zak butters,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,2.60,connor rozee,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,4.20,dan houston,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,5.10,ollie wines,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,15.00,kane farrell,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,16.00,jason horne-francis,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,18.00,travis boak,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,19.00,dylan williams,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,2.40,noah anderson,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,3.30,touk miller,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,4.80,sam flanders,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,7.50,brayden fiorini,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,7.50,matt rowell,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,10.00,darcy macpherson,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,14.00,lachie weller,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,15.00,wil powell,POR,GCS
-R17,port-adelaide v gold-coast,30 or more,16.00,brandon ellis,POR,GCS
+disposals,teams,odds,Player,round,home,away
+To Get 15 or More Disposals,richmond v sydney,SUS,dion prestia,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,SUS,daniel rioli,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.10,nick vlastuin,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.13,shai bolton,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.15,dustin martin,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.19,liam baker,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.25,trent cotchin,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.26,nathan broad,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.36,noah balta,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.42,jack graham,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.55,toby nankervis,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.68,sam banks,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.93,jacob bauer,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.99,kamdyn mcintosh,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,2.00,marlion pickett,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,SUS,callum mills,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,SUS,jake lloyd,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.06,nick blakey,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.12,james rowbottom,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.17,angus sheldrick,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.31,robbie fox,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.35,isaac heeney,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.39,justin mcinerney,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.40,oliver florent,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.42,dane rampe,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.52,braeden campbell,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.53,harry cunningham,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.68,tom papley,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,1.93,tom hickey,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,2.95,hayden mclean,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,3.15,tom mccartin,R17,RCH,SYD
+To Get 15 or More Disposals,richmond v sydney,3.35,will hayward,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.32,jacob hopper,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.35,dion prestia,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.37,daniel rioli,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.55,shai bolton,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.61,dustin martin,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.64,nick vlastuin,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.96,liam baker,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.98,trent cotchin,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,2.25,nathan broad,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,2.60,jack graham,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,2.70,noah balta,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,3.00,toby nankervis,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,4.30,sam banks,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,5.70,jacob bauer,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,5.90,kamdyn mcintosh,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,6.75,marlion pickett,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.12,luke parker,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.19,callum mills,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.19,errol gulden,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.30,jake lloyd,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.39,nick blakey,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.67,angus sheldrick,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,1.74,james rowbottom,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,2.03,oliver florent,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,2.25,justin mcinerney,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,2.55,robbie fox,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,2.60,dane rampe,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,2.75,isaac heeney,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,3.00,harry cunningham,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,3.50,braeden campbell,R17,RCH,SYD
+To Get 20 or More Disposals,richmond v sydney,4.20,tom papley,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,1.25,tim taranto,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,2.12,jacob hopper,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,2.40,dion prestia,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,2.65,daniel rioli,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,2.75,shai bolton,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,2.95,dustin martin,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,3.80,nick vlastuin,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,4.25,trent cotchin,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,4.80,liam baker,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,6.25,jack graham,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,6.25,nathan broad,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,8.25,toby nankervis,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,8.50,noah balta,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,17.00,sam banks,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,1.59,luke parker,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,1.70,errol gulden,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,1.75,callum mills,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,2.20,jake lloyd,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,2.55,nick blakey,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,3.10,angus sheldrick,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,4.30,james rowbottom,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,4.30,oliver florent,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,5.60,justin mcinerney,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,6.50,dane rampe,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,7.50,robbie fox,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,8.00,harry cunningham,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,8.50,isaac heeney,R17,RCH,SYD
+To Get 25 or More Disposals,richmond v sydney,13.00,braeden campbell,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,1.88,tim taranto,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,5.00,jacob hopper,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,5.50,shai bolton,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,6.00,dustin martin,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,6.50,dion prestia,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,7.00,daniel rioli,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,10.00,trent cotchin,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,12.00,nick vlastuin,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,14.00,liam baker,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,15.00,jack graham,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,19.00,nathan broad,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,23.00,toby nankervis,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,2.80,errol gulden,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,2.85,luke parker,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,3.60,callum mills,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,5.00,jake lloyd,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,6.00,nick blakey,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,6.75,angus sheldrick,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,8.75,oliver florent,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,14.00,james rowbottom,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,14.00,justin mcinerney,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,16.00,dane rampe,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,23.00,harry cunningham,R17,RCH,SYD
+To Get 30 or More Disposals,richmond v sydney,23.00,robbie fox,R17,RCH,SYD
+To Get 15 or More Disposals,western-bulldogs v collingwood,SUS,caleb daniel,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,1.15,ed richards,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,1.22,tim english,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,1.37,bailey williams (wb),R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,2.10,laitham vandermeer,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,2.30,jamarra ugle-hagan,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,2.75,alex keath,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,2.80,taylor duryea,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,3.00,aaron naughton,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,3.80,cody weightman,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,SUS,jordan de goey,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,1.11,john noble,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,1.13,jack crisp,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,1.15,patrick lipinski,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,1.18,taylor adams,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,1.36,isaac quaynor,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,1.38,jeremy howe,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,1.42,darcy moore,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,1.60,darcy cameron,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,1.77,will hoskin-elliott,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,1.96,oleg markov,R17,WBD,COL
+To Get 15 or More Disposals,western-bulldogs v collingwood,3.90,jamie elliott,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.08,marcus bontempelli,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.10,jack macrae,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.10,tom liberatore,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.17,bailey dale,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.23,bailey smith,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.30,caleb daniel,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.94,ed richards,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,2.12,tim english,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,2.35,bailey williams (wb),R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,5.40,laitham vandermeer,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,8.25,jamarra ugle-hagan,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,8.75,alex keath,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.08,tom mitchell,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.16,josh daicos,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.27,scott pendlebury,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.28,jordan de goey,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.71,jack crisp,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.72,john noble,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.91,taylor adams,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,1.92,patrick lipinski,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,2.60,darcy moore,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,2.70,isaac quaynor,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,3.05,jeremy howe,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,3.25,darcy cameron,R17,WBD,COL
+To Get 20 or More Disposals,western-bulldogs v collingwood,3.40,will hoskin-elliott,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,1.16,adam treloar,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,1.43,marcus bontempelli,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,1.54,tom liberatore,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,1.55,jack macrae,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,1.64,bailey dale,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,2.12,bailey smith,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,2.25,caleb daniel,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,5.20,ed richards,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,5.50,bailey williams (wb),R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,5.50,tim english,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,19.00,laitham vandermeer,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,1.09,nick daicos,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,1.42,tom mitchell,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,1.74,josh daicos,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,1.98,jordan de goey,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,2.20,scott pendlebury,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,3.80,jack crisp,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,3.90,john noble,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,4.70,taylor adams,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,5.30,patrick lipinski,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,6.25,darcy moore,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,8.00,will hoskin-elliott,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,8.50,isaac quaynor,R17,WBD,COL
+To Get 25 or More Disposals,western-bulldogs v collingwood,9.25,darcy cameron,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,1.64,adam treloar,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,2.35,marcus bontempelli,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,2.70,bailey dale,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,2.85,tom liberatore,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,2.95,jack macrae,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,4.80,bailey smith,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,4.90,caleb daniel,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,14.00,bailey williams (wb),R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,15.00,tim english,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,18.00,ed richards,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,1.37,nick daicos,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,2.35,tom mitchell,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,3.25,josh daicos,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,3.60,jordan de goey,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,5.40,scott pendlebury,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,10.50,jack crisp,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,12.50,john noble,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,14.00,taylor adams,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,16.00,darcy moore,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,18.00,patrick lipinski,R17,WBD,COL
+To Get 30 or More Disposals,western-bulldogs v collingwood,19.00,will hoskin-elliott,R17,WBD,COL
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.06,lachie ash,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.08,finn callaghan,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.11,harry himmelberg,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.19,callan ward,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.19,isaac cumming,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.20,harry perryman,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.25,toby greene,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.46,connor idun,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.77,xavier o'halloran,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.79,daniel lloyd,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.97,toby bedford,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,2.12,kieren briggs,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,2.90,jesse hogan,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.07,karl amon,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.08,josh ward,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.10,dylan moore,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.11,blake hardwick,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.13,seamus mitchell,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.29,jack scrimshaw,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.32,josh weddle,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.43,connor macdonald,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,1.49,chad wingard,R17,GWS,HAW
+To Get 15 or More Disposals,greater-western-sydney v hawthorn,2.30,sam frost,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.08,josh kelly,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.08,stephen coniglio,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.16,lachie whitfield,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.39,lachie ash,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.48,harry himmelberg,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.54,finn callaghan,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.74,callan ward,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,2.12,isaac cumming,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,2.25,toby greene,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,2.30,harry perryman,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,3.50,connor idun,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,3.80,xavier o'halloran,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,5.00,daniel lloyd,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,5.90,toby bedford,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,6.75,kieren briggs,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.12,will day,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.17,james worpel,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.22,conor nash,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.22,jai newcombe,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.47,josh ward,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.51,karl amon,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.62,blake hardwick,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.70,dylan moore,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.73,seamus mitchell,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.88,jack scrimshaw,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,1.99,josh weddle,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,2.60,connor macdonald,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,3.30,chad wingard,R17,GWS,HAW
+To Get 20 or More Disposals,greater-western-sydney v hawthorn,5.70,mitch lewis,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,1.18,tom green,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,1.42,josh kelly,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,1.43,stephen coniglio,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,1.72,lachie whitfield,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,2.50,harry himmelberg,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,2.55,lachie ash,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,3.15,finn callaghan,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,3.35,callan ward,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,6.25,isaac cumming,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,6.25,toby greene,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,8.00,harry perryman,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,11.00,xavier o'halloran,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,15.00,connor idun,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,1.58,will day,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,1.61,james worpel,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,1.93,jai newcombe,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,1.94,conor nash,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,2.85,josh ward,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,3.25,karl amon,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,3.30,jack scrimshaw,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,3.40,blake hardwick,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,3.60,josh weddle,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,3.75,seamus mitchell,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,4.00,dylan moore,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,6.50,connor macdonald,R17,GWS,HAW
+To Get 25 or More Disposals,greater-western-sydney v hawthorn,12.00,chad wingard,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,1.66,tom green,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,2.40,josh kelly,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,2.40,stephen coniglio,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,3.30,lachie whitfield,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,5.20,harry himmelberg,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,6.50,lachie ash,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,7.50,callan ward,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,8.00,finn callaghan,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,19.00,toby greene,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,21.00,isaac cumming,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,2.60,james worpel,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,2.80,will day,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,3.90,conor nash,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,3.90,jai newcombe,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,6.50,jack scrimshaw,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,7.00,josh ward,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,7.00,josh weddle,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,8.75,blake hardwick,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,9.00,karl amon,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,10.00,seamus mitchell,R17,GWS,HAW
+To Get 30 or More Disposals,greater-western-sydney v hawthorn,12.50,dylan moore,R17,GWS,HAW
+To Get 15 or More Disposals,st-kilda v melbourne,1.08,jack steele,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.08,nasiah wanganeen-milera,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.11,mason wood,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.15,rowan marshall,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.31,jade gresham,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.33,marcus windhager,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.42,callum wilkie,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.50,liam stocker,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.55,jimmy webster,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.93,dougal howard,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.94,mitchito owens,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,2.35,mattaes phillipou,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,3.90,dan butler,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.07,ed langdon,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.12,steven may,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.13,trent rivers,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.17,tom sparrow,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.21,jake bowey,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.46,max gawn,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.56,jake lever,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.65,alex neal-bullen,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.67,judd mcvee,R17,STK,MEL
+To Get 15 or More Disposals,st-kilda v melbourne,1.68,brodie grundy,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,1.08,brad crouch,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,1.37,nasiah wanganeen-milera,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,1.38,jack steele,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,1.68,mason wood,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,1.94,rowan marshall,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,2.20,marcus windhager,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,2.55,callum wilkie,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,2.75,jade gresham,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,3.35,liam stocker,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,4.00,jimmy webster,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,4.50,mitchito owens,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,6.25,dougal howard,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,9.50,mattaes phillipou,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,1.12,jack viney,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,1.16,angus brayshaw,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,1.23,lachie hunter,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,1.27,christian salem,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,1.52,ed langdon,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,1.71,trent rivers,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,1.89,steven may,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,1.95,tom sparrow,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,2.20,jake bowey,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,3.10,jake lever,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,3.45,max gawn,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,4.25,judd mcvee,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,4.30,brodie grundy,R17,STK,MEL
+To Get 20 or More Disposals,st-kilda v melbourne,4.50,alex neal-bullen,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,1.19,jack sinclair,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,1.46,brad crouch,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,2.18,jack steele,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,2.18,nasiah wanganeen-milera,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,4.10,mason wood,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,4.90,marcus windhager,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,5.10,rowan marshall,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,6.25,callum wilkie,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,10.00,jade gresham,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,12.00,liam stocker,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,16.00,mitchito owens,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,17.00,jimmy webster,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,1.23,christian petracca,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,1.50,jack viney,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,1.74,angus brayshaw,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,1.97,lachie hunter,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,2.20,christian salem,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,3.25,ed langdon,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,3.80,trent rivers,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,4.75,tom sparrow,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,5.80,steven may,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,7.00,jake bowey,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,8.50,jake lever,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,14.00,max gawn,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,17.00,brodie grundy,R17,STK,MEL
+To Get 25 or More Disposals,st-kilda v melbourne,17.00,judd mcvee,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,1.67,jack sinclair,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,2.70,brad crouch,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,4.20,jack steele,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,4.25,nasiah wanganeen-milera,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,12.00,marcus windhager,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,12.50,mason wood,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,16.00,callum wilkie,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,16.00,rowan marshall,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,1.87,christian petracca,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,2.30,jack viney,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,3.35,angus brayshaw,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,4.00,lachie hunter,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,5.40,christian salem,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,9.25,ed langdon,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,10.50,trent rivers,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,13.00,tom sparrow,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,21.00,steven may,R17,STK,MEL
+To Get 30 or More Disposals,st-kilda v melbourne,26.00,jake bowey,R17,STK,MEL
+To Get 15 or More Disposals,port-adelaide v gold-coast,SUS,dan houston,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.24,dylan williams,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.41,travis boak,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.44,jason horne-francis,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.49,jeremy finlayson,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.50,willem drew,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.57,ryan burton,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.62,kane farrell,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.73,riley bonner,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,2.10,darcy byrne-jones,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,2.12,miles bergman,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,2.30,sam powell-pepper,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,2.35,aliir aliir,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,2.95,charlie dixon,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.12,darcy macpherson,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.18,matt rowell,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.18,wil powell,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.19,brayden fiorini,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.19,lachie weller,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.20,sam flanders,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.36,david swallow,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.43,brandon ellis,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.48,ben ainsworth,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.64,bailey humphrey,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.65,jarrod witts,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.76,charlie ballard,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,1.91,jack lukosius,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,2.30,nick holman,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,2.85,mac andrew,R17,POR,GCS
+To Get 15 or More Disposals,port-adelaide v gold-coast,2.95,ben long,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,1.06,zak butters,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,1.17,connor rozee,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,1.19,dan houston,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,1.30,ollie wines,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,2.20,dylan williams,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,2.55,jason horne-francis,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,2.55,travis boak,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,2.85,kane farrell,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,3.30,willem drew,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,3.35,jeremy finlayson,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,3.75,ryan burton,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,3.80,riley bonner,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,5.50,darcy byrne-jones,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,7.00,miles bergman,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,8.00,sam powell-pepper,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,8.25,aliir aliir,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,1.07,noah anderson,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,1.16,touk miller,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,1.66,sam flanders,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,1.70,darcy macpherson,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,1.78,brayden fiorini,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,1.78,matt rowell,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,1.92,wil powell,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,1.95,lachie weller,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,2.55,brandon ellis,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,2.75,david swallow,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,3.35,ben ainsworth,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,3.35,jarrod witts,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,3.40,bailey humphrey,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,4.80,charlie ballard,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,5.80,jack lukosius,R17,POR,GCS
+To Get 20 or More Disposals,port-adelaide v gold-coast,6.50,nick holman,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,1.31,zak butters,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,1.61,connor rozee,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,1.92,dan houston,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,2.20,ollie wines,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,6.00,dylan williams,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,6.25,kane farrell,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,6.50,jason horne-francis,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,6.50,travis boak,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,11.50,riley bonner,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,11.50,willem drew,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,12.00,jeremy finlayson,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,15.00,ryan burton,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,19.00,darcy byrne-jones,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,1.41,noah anderson,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,1.70,touk miller,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,2.80,sam flanders,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,3.45,brayden fiorini,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,3.50,matt rowell,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,3.80,darcy macpherson,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,4.70,wil powell,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,4.75,lachie weller,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,6.50,brandon ellis,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,8.50,david swallow,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,9.75,bailey humphrey,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,9.75,jarrod witts,R17,POR,GCS
+To Get 25 or More Disposals,port-adelaide v gold-coast,11.50,ben ainsworth,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,2.05,zak butters,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,2.55,connor rozee,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,4.30,dan houston,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,4.90,ollie wines,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,14.00,kane farrell,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,17.00,jason horne-francis,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,17.00,travis boak,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,18.00,dylan williams,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,2.45,noah anderson,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,3.20,touk miller,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,5.00,sam flanders,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,7.50,brayden fiorini,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,7.75,matt rowell,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,10.50,darcy macpherson,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,13.00,wil powell,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,14.00,lachie weller,R17,POR,GCS
+To Get 30 or More Disposals,port-adelaide v gold-coast,17.00,brandon ellis,R17,POR,GCS
+To Get 15 or More Disposals,geelong v north-melbourne,1.11,mitch duncan,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.18,zach tuohy,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.30,gryan miers,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.31,tom atkins,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.32,max holmes,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.42,tanner bruhn,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.45,mark blicavs,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.47,brad close,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.63,zach guthrie,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,3.25,jake kolodjashnij,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,3.35,esava ratugolea,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,4.00,tom hawkins,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,4.20,tyson stengle,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.09,jack ziebell,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.18,bailey scott,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.18,tarryn thomas,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.25,darcy tucker,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.28,luke mcdonald,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.33,liam shiels,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.42,will phillips,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.44,george wardlaw,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.84,aidan corr,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.94,griffin logue,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.94,todd goldstein,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,1.96,cameron zurhaar,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,2.12,eddie ford,R17,GEE,north-melbourne
+To Get 15 or More Disposals,geelong v north-melbourne,3.15,jaidyn stephenson,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,1.22,tom stewart,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,1.31,patrick dangerfield,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,1.47,mitch duncan,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,1.77,zach tuohy,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,2.08,gryan miers,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,2.20,max holmes,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,2.45,tom atkins,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,2.55,tanner bruhn,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,3.30,brad close,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,3.30,zach guthrie,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,3.40,mark blicavs,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,1.08,harry sheezel,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,1.16,luke davies-uniacke,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,1.32,jy simpkin,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,1.56,jack ziebell,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,1.74,tarryn thomas,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,1.77,bailey scott,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,2.20,liam shiels,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,2.25,darcy tucker,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,2.45,luke mcdonald,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,2.60,george wardlaw,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,2.60,will phillips,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,3.75,aidan corr,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,4.80,cameron zurhaar,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,5.75,griffin logue,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,6.00,todd goldstein,R17,GEE,north-melbourne
+To Get 20 or More Disposals,geelong v north-melbourne,6.75,eddie ford,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,1.95,tom stewart,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,2.25,patrick dangerfield,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,2.45,mitch duncan,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,3.50,zach tuohy,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,4.40,gryan miers,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,5.00,max holmes,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,6.50,tanner bruhn,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,7.25,tom atkins,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,9.50,zach guthrie,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,11.00,brad close,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,15.00,mark blicavs,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,1.42,harry sheezel,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,1.76,luke davies-uniacke,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,2.40,jy simpkin,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,3.10,jack ziebell,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,3.40,bailey scott,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,3.40,tarryn thomas,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,5.00,liam shiels,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,6.00,darcy tucker,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,6.25,george wardlaw,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,6.25,will phillips,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,8.00,luke mcdonald,R17,GEE,north-melbourne
+To Get 25 or More Disposals,geelong v north-melbourne,9.50,aidan corr,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,4.10,tom stewart,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,4.90,mitch duncan,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,5.10,patrick dangerfield,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,7.50,zach tuohy,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,10.50,gryan miers,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,12.00,max holmes,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,17.00,tanner bruhn,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,23.00,tom atkins,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,26.00,zach guthrie,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,2.35,harry sheezel,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,3.35,luke davies-uniacke,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,6.00,jy simpkin,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,7.50,bailey scott,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,7.75,jack ziebell,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,7.75,tarryn thomas,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,13.00,liam shiels,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,17.00,will phillips,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,18.00,george wardlaw,R17,GEE,north-melbourne
+To Get 30 or More Disposals,geelong v north-melbourne,19.00,darcy tucker,R17,GEE,north-melbourne
+To Get 15 or More Disposals,essendon v adelaide,1.06,ben hobbs,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.06,nic martin,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.09,mason redman,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.10,dyson heppell,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.13,andrew mcgrath,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.13,jordan ridley,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.16,jye caldwell,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.57,jake stringer,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.68,archie perkins,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.69,sam durham,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.91,jayden laverde,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.93,kyle langford,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,2.25,jake kelly,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,2.60,will snelling,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,3.50,brandon zerk-thatcher,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,3.80,andrew phillips,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,3.80,matt guelfi,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.13,mitch hinge,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.20,brodie smith,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.22,rory sloane,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.22,wayne milera,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.34,chayce jones,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.41,josh rachele,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.42,izak rankine,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.42,lachlan sholl,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.54,jake soligo,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.54,ned mchenry,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.55,lachlan murphy,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.58,josh worrell,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,1.66,reilly o'brien,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,2.08,taylor walker,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,2.30,riley thilthorpe,R17,ESS,ADE
+To Get 15 or More Disposals,essendon v adelaide,2.75,luke pedlar,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,1.06,zach merrett,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,1.26,dylan shiel,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,1.41,ben hobbs,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,1.41,nic martin,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,1.54,mason redman,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,1.61,jye caldwell,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,1.69,dyson heppell,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,1.71,jordan ridley,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,1.72,andrew mcgrath,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,3.10,jake stringer,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,4.25,archie perkins,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,4.30,sam durham,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,4.50,jayden laverde,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,4.80,kyle langford,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,5.20,jake kelly,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,10.00,will snelling,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,1.08,ben keays,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,1.72,mitch hinge,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,1.77,brodie smith,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,1.85,rory sloane,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,2.10,wayne milera,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,2.20,chayce jones,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,2.50,izak rankine,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,2.95,josh rachele,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,3.00,lachlan sholl,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,3.05,ned mchenry,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,3.50,jake soligo,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,3.75,josh worrell,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,3.90,lachlan murphy,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,4.30,reilly o'brien,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,5.50,taylor walker,R17,ESS,ADE
+To Get 20 or More Disposals,essendon v adelaide,7.75,riley thilthorpe,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,1.17,darcy parish,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,1.32,zach merrett,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,2.20,dylan shiel,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,2.65,ben hobbs,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,2.65,nic martin,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,2.90,jye caldwell,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,3.15,mason redman,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,3.75,jordan ridley,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,3.80,andrew mcgrath,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,3.90,dyson heppell,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,8.25,jake stringer,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,14.00,jake kelly,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,14.00,jayden laverde,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,16.00,kyle langford,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,17.00,archie perkins,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,17.00,sam durham,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,1.21,jordan dawson,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,1.25,rory laird,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,1.43,ben keays,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,3.45,brodie smith,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,3.75,rory sloane,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,3.80,mitch hinge,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,5.10,chayce jones,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,5.30,wayne milera,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,6.00,izak rankine,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,8.50,ned mchenry,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,9.50,lachlan sholl,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,10.00,josh rachele,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,13.00,jake soligo,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,14.00,josh worrell,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,16.00,lachlan murphy,R17,ESS,ADE
+To Get 25 or More Disposals,essendon v adelaide,16.00,reilly o'brien,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,1.59,darcy parish,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,2.07,zach merrett,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,5.30,dylan shiel,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,6.00,jye caldwell,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,6.25,ben hobbs,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,6.25,nic martin,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,8.25,mason redman,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,10.50,andrew mcgrath,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,10.50,jordan ridley,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,11.50,dyson heppell,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,21.00,jake stringer,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,1.82,jordan dawson,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,1.86,rory laird,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,2.40,ben keays,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,7.75,brodie smith,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,8.50,rory sloane,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,10.00,mitch hinge,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,12.50,chayce jones,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,16.00,wayne milera,R17,ESS,ADE
+To Get 30 or More Disposals,essendon v adelaide,17.00,izak rankine,R17,ESS,ADE
+To Get 15 or More Disposals,fremantle v carlton,1.08,luke ryan,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.11,liam henry,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.12,jaeger o'meara,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.14,hayden young,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.14,james aish,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.26,matt johnson,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.48,brennan cox,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.49,sean darcy,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.65,luke jackson,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.68,lachie schultz,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.68,neil erasmus,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.97,ethan hughes,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,2.12,sam switkowski,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,2.55,brandon walker,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,3.80,michael walters,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,3.90,alex pearce,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,SUS,adam cerra,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.07,matthew kennedy,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.08,adam saad,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.15,blake acres,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.28,nic newman,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.38,mitch mcgovern,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.41,brodie kemp,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.51,jack silvagni,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.56,jacob weitering,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.62,ed curnow,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.95,charlie curnow,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,1.96,alex cincotta,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,2.30,jordan boyd,R17,FRE,CAR
+To Get 15 or More Disposals,fremantle v carlton,2.35,harry mckay,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,1.36,luke ryan,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,1.37,liam henry,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,1.60,hayden young,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,1.71,jaeger o'meara,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,1.71,james aish,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,1.96,matt johnson,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,2.45,brennan cox,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,3.35,sean darcy,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,3.45,luke jackson,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,4.30,lachie schultz,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,4.30,neil erasmus,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,5.50,sam switkowski,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,6.00,ethan hughes,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,9.75,brandon walker,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,1.12,sam docherty,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,1.13,adam cerra,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,1.18,patrick cripps,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,1.51,matthew kennedy,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,1.57,adam saad,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,1.61,blake acres,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,2.10,nic newman,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,2.40,mitch mcgovern,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,2.85,ed curnow,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,3.00,brodie kemp,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,3.40,jack silvagni,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,3.75,jacob weitering,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,4.80,charlie curnow,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,6.00,alex cincotta,R17,FRE,CAR
+To Get 20 or More Disposals,fremantle v carlton,8.25,jordan boyd,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,1.17,caleb serong,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,1.23,andrew brayshaw,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,1.98,liam henry,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,2.20,luke ryan,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,2.85,hayden young,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,3.80,jaeger o'meara,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,3.80,james aish,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,4.20,matt johnson,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,5.10,brennan cox,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,9.75,luke jackson,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,12.00,sean darcy,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,17.00,lachie schultz,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,17.00,neil erasmus,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,18.00,sam switkowski,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,1.26,sam walsh,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,1.51,adam cerra,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,1.56,sam docherty,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,1.64,patrick cripps,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,2.90,blake acres,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,3.20,matthew kennedy,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,3.50,adam saad,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,4.50,nic newman,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,5.70,mitch mcgovern,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,6.25,ed curnow,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,10.50,brodie kemp,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,12.00,jack silvagni,R17,FRE,CAR
+To Get 25 or More Disposals,fremantle v carlton,14.00,jacob weitering,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,1.65,caleb serong,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,1.86,andrew brayshaw,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,3.20,liam henry,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,4.25,luke ryan,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,6.00,hayden young,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,9.75,matt johnson,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,10.00,brennan cox,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,10.00,jaeger o'meara,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,11.00,james aish,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,26.00,luke jackson,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,1.85,sam walsh,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,2.35,adam cerra,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,2.65,patrick cripps,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,2.80,sam docherty,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,6.00,blake acres,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,8.50,matthew kennedy,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,10.50,adam saad,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,11.00,nic newman,R17,FRE,CAR
+To Get 30 or More Disposals,fremantle v carlton,14.00,ed curnow,R17,FRE,CAR
