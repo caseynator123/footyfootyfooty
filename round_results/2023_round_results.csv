@@ -15,8 +15,8 @@ Sat 25 Mar 4:05pm,Adelaide Oval,38492,R2,2023,ADE,RCH,76,108
 Sat 25 Mar 4:30pm,Optus Stadium,40487,R2,2023,FRE,NTH,72,73
 Sat 25 Mar 7:25pm,Marvel Stadium,33294,R2,2023,WBD,STK,41,92
 Sun 26 Mar 1:10pm,SCG,37052,R2,2023,SYD,HAW,118,37
-Sun 26 Mar 3:20pm,Marvel Stadium,32915,R2,2023,ESS,GCS,108,80
 Sun 26 Mar 3:20pm,Optus Stadium,44649,R2,2023,WCE,GWS,100,81
+Sun 26 Mar 3:20pm,Marvel Stadium,32915,R2,2023,ESS,GCS,108,80
 Thu 30 Mar 7:20pm,Marvel Stadium,23665,R3,2023,WBD,BRL,67,53
 Fri 31 Mar 7:50pm,MCG,85241,R3,2023,COL,RCH,63,49
 Sat 1 Apr 1:45pm,UTAS Stadium,11007,R3,2023,HAW,NTH,80,61
@@ -24,14 +24,14 @@ Sat 1 Apr 4:35pm,GIANTS Stadium,9691,R3,2023,GWS,CAR,64,74
 Sat 1 Apr 7:00pm,Adelaide Oval,48962,R3,2023,POR,ADE,86,117
 Sat 1 Apr 7:25pm,MCG,69255,R3,2023,STK,ESS,92,74
 Sun 2 Apr 2:10pm,Heritage Bank Stadium,13122,R3,2023,GCS,GEE,73,54
-Sun 2 Apr 3:20pm,MCG,42423,R3,2023,MEL,SYD,134,84
 Sun 2 Apr 3:20pm,Optus Stadium,56090,R3,2023,FRE,WCE,108,67
+Sun 2 Apr 3:20pm,MCG,42423,R3,2023,MEL,SYD,134,84
 Thu 6 Apr 7:35pm,Gabba,33565,R4,2023,BRL,COL,116,83
 Fri 7 Apr 4:20pm,Marvel Stadium,49062,R4,2023,NTH,CAR,84,107
 Sat 8 Apr 1:15pm,Adelaide Oval,33725,R4,2023,ADE,FRE,111,72
 Sat 8 Apr 4:35pm,MCG,56449,R4,2023,RCH,WBD,84,89
-Sat 8 Apr 7:30pm,SCG,31686,R4,2023,SYD,POR,64,66
 Sat 8 Apr 7:30pm,Marvel Stadium,21049,R4,2023,STK,GCS,113,60
+Sat 8 Apr 7:30pm,SCG,31686,R4,2023,SYD,POR,64,66
 Sun 9 Apr 2:10pm,Marvel Stadium,28815,R4,2023,ESS,GWS,88,75
 Sun 9 Apr 3:20pm,Optus Stadium,42458,R4,2023,WCE,MEL,63,126
 Mon 10 Apr 3:20pm,MCG,65335,R4,2023,GEE,HAW,127,45
@@ -125,3 +125,84 @@ Sat 24 Jun 4:35pm,SCG,31367,R15,2023,SYD,WCE,205,34
 Sat 24 Jun 5:25pm,Optus Stadium,43063,R15,2023,FRE,ESS,93,61
 Sun 25 Jun 1:10pm,MCG,65930,R15,2023,COL,ADE,82,80
 Sun 25 Jun 4:40pm,Heritage Bank Stadium,14242,R15,2023,GCS,HAW,101,34
+Thu 29 Jun 7:20pm,Gabba,30022,R16,2023,BRL,RCH,134,53
+Fri 30 Jun 7:50pm,SCG,32098,R16,2023,SYD,GEE,54,54
+Sat 1 Jul 1:15pm,Adelaide Oval,35226,R16,2023,ADE,NTH,138,72
+Sat 1 Jul 1:45pm,Marvel Stadium,25412,R16,2023,WBD,FRE,102,73
+Sat 1 Jul 4:35pm,Heritage Bank Stadium,22483,R16,2023,GCS,COL,42,120
+Sat 1 Jul 7:25pm,MCG,38957,R16,2023,ESS,POR,74,78
+Sun 2 Jul 1:10pm,MCG,66337,R16,2023,HAW,CAR,52,112
+Sun 2 Jul 2:40pm,Optus Stadium,35579,R16,2023,WCE,STK,77,85
+Sun 2 Jul 2:50pm,TIO Traegar Park,3413,R16,2023,MEL,GWS,45,47
+Thu 6 Jul 7:20pm,MCG,48443,R17,2023,RCH,SYD,88,75
+Fri 7 Jul 7:50pm,Marvel Stadium,43482,R17,2023,WBD,COL,77,89
+Sat 8 Jul 1:45pm,Gabba,24843,R17,2023,BRL,WCE,116,35
+Sat 8 Jul 4:35pm,GIANTS Stadium,9007,R17,2023,GWS,HAW,85,72
+Sat 8 Jul 7:10pm,Adelaide Oval,31053,R17,2023,POR,GCS,106,73
+Sat 8 Jul 7:25pm,Marvel Stadium,30749,R17,2023,STK,MEL,58,79
+Sun 9 Jul 1:10pm,GMHBA Stadium,21066,R17,2023,GEE,NTH,125,63
+Sun 9 Jul 2:40pm,Optus Stadium,49469,R17,2023,FRE,CAR,45,98
+Sun 9 Jul 3:20pm,Marvel Stadium,39606,R17,2023,ESS,ADE,115,97
+Thu 13 Jul 7:20pm,SCG,,R18,2023,SYD,WBD,,
+Fri 14 Jul 7:50pm,MCG,,R18,2023,MEL,BRL,,
+Sat 15 Jul 1:45pm,MCG,,R18,2023,COL,FRE,,
+Sat 15 Jul 2:10pm,Heritage Bank Stadium,,R18,2023,GCS,STK,,
+Sat 15 Jul 4:35pm,Marvel Stadium,,R18,2023,CAR,POR,,
+Sat 15 Jul 7:10pm,Adelaide Oval,,R18,2023,ADE,GWS,,
+Sat 15 Jul 7:25pm,GMHBA Stadium,,R18,2023,GEE,ESS,,
+Sun 16 Jul 1:10pm,Marvel Stadium,,R18,2023,NTH,HAW,,
+Sun 16 Jul 2:40pm,Optus Stadium,,R18,2023,WCE,RCH,,
+Fri 21 Jul 7:50pm,Marvel Stadium,,R19,2023,ESS,WBD,,
+Sat 22 Jul 1:45pm,MCG,,R19,2023,RCH,HAW,,
+Sat 22 Jul 2:10pm,Marvel Stadium,,R19,2023,CAR,WCE,,
+Sat 22 Jul 4:35pm,Gabba,,R19,2023,BRL,GEE,,
+Sat 22 Jul 5:40pm,Optus Stadium,,R19,2023,FRE,SYD,,
+Sat 22 Jul 7:10pm,Adelaide Oval,,R19,2023,POR,COL,,
+Sun 23 Jul 1:10pm,Manuka Oval,,R19,2023,GWS,GCS,,
+Sun 23 Jul 3:20pm,MCG,,R19,2023,MEL,ADE,,
+Sun 23 Jul 4:40pm,Marvel Stadium,,R19,2023,STK,NTH,,
+Fri 28 Jul 7:50pm,MCG,,R20,2023,COL,CAR,,
+Sat 29 Jul 1:45pm,GMHBA Stadium,,R20,2023,GEE,FRE,,
+Sat 29 Jul 1:45pm,Mars Stadium,,R20,2023,WBD,GWS,,
+Sat 29 Jul 4:35pm,Heritage Bank Stadium,,R20,2023,GCS,BRL,,
+Sat 29 Jul 7:10pm,Adelaide Oval,,R20,2023,ADE,POR,,
+Sat 29 Jul 7:25pm,Marvel Stadium,,R20,2023,ESS,SYD,,
+Sun 30 Jul 1:10pm,Marvel Stadium,,R20,2023,HAW,STK,,
+Sun 30 Jul 2:40pm,Optus Stadium,,R20,2023,WCE,NTH,,
+Sun 30 Jul 3:20pm,MCG,,R20,2023,RCH,MEL,,
+Fri 4 Aug 7:50pm,Marvel Stadium,,R21,2023,WBD,RCH,,
+Sat 5 Aug 1:40pm,Adelaide Oval,,R21,2023,ADE,GCS,,
+Sat 5 Aug 1:45pm,Marvel Stadium,,R21,2023,ESS,WCE,,
+Sat 5 Aug 4:35pm,MCG,,R21,2023,HAW,COL,,
+Sat 5 Aug 7:25pm,GMHBA Stadium,,R21,2023,GEE,POR,,
+Sat 5 Aug 7:30pm,GIANTS Stadium,,R21,2023,GWS,SYD,,
+Sun 6 Aug 1:10pm,Blundstone Arena,,R21,2023,NTH,MEL,,
+Sun 6 Aug 2:40pm,Optus Stadium,,R21,2023,FRE,BRL,,
+Sun 6 Aug 3:20pm,Marvel Stadium,,R21,2023,STK,CAR,,
+Fri 11 Aug 7:50pm,MCG,,R22,2023,COL,GEE,,
+Sat 12 Aug 1:45pm,Marvel Stadium,,R22,2023,NTH,ESS,,
+Sat 12 Aug 2:10pm,SCG,,R22,2023,SYD,GCS,,
+Sat 12 Aug 4:35pm,Gabba,,R22,2023,BRL,ADE,,
+Sat 12 Aug 6:10pm,Optus Stadium,,R22,2023,WCE,FRE,,
+Sat 12 Aug 7:25pm,MCG,,R22,2023,CAR,MEL,,
+Sun 13 Aug 1:10pm,UTAS Stadium,,R22,2023,HAW,WBD,,
+Sun 13 Aug 3:20pm,Marvel Stadium,,R22,2023,STK,RCH,,
+Sun 13 Aug 4:10pm,Adelaide Oval,,R22,2023,POR,GWS,,
+Fri 18 Aug 7:50pm,Marvel Stadium,,R23,2023,COL,BRL,,
+Sat 19 Aug 1:45pm,MCG,,R23,2023,RCH,NTH,,
+Sat 19 Aug 2:10pm,Heritage Bank Stadium,,R23,2023,GCS,CAR,,
+Sat 19 Aug 4:35pm,GIANTS Stadium,,R23,2023,GWS,ESS,,
+Sat 19 Aug 7:10pm,Adelaide Oval,,R23,2023,ADE,SYD,,
+Sat 19 Aug 7:25pm,Marvel Stadium,,R23,2023,STK,GEE,,
+Sun 20 Aug 1:10pm,Marvel Stadium,,R23,2023,WBD,WCE,,
+Sun 20 Aug 2:40pm,Optus Stadium,,R23,2023,FRE,POR,,
+Sun 20 Aug 3:20pm,MCG,,R23,2023,MEL,HAW,,
+Fri 25 Aug 12:00pm,Adelaide Oval,,R24,2023,POR,RCH,,
+Fri 25 Aug 12:00pm,SCG,,R24,2023,SYD,MEL,,
+Fri 25 Aug 12:00pm,Blundstone Arena,,R24,2023,NTH,GCS,,
+Fri 25 Aug 12:00pm,MCG,,R24,2023,HAW,FRE,,
+Fri 25 Aug 12:00pm,GMHBA Stadium,,R24,2023,GEE,WBD,,
+Fri 25 Aug 12:00pm,MCG,,R24,2023,ESS,COL,,
+Fri 25 Aug 12:00pm,Marvel Stadium,,R24,2023,CAR,GWS,,
+Fri 25 Aug 12:00pm,Gabba,,R24,2023,BRL,STK,,
+Fri 25 Aug 12:00pm,Optus Stadium,,R24,2023,WCE,ADE,,
