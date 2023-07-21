@@ -112,7 +112,7 @@ def get_odds(r):
         
     output.to_csv(f'/Users/caseyh/Desktop/footyfootyfooty/sportsbet_odds/r{r}/disposal_markets_{day}.csv', index = False)
 
-get_odds(r='18')
+get_odds(r='19')
 
 
 
