@@ -5,6 +5,7 @@ Created on Sat Jul 15 15:54:43 2023
 
 @author: caseyh
 """
+import os
 
 import pandas as pd
 from selenium import webdriver
@@ -51,10 +52,10 @@ def get_odds(r):
     for game in game_urls:
         game_list.append(r_search.findall(game))
         
-    driver = webdriver.Chrome(ChromeDriverManager().install())
+    driver = webdriver.Chrome()
     driver.set_window_size(700,800)
     
-    output = pd.DataFrame({},columns = {'teams','round','Player', 'disposals', 'odds'})
+    output = pd.DataFrame({},columns = ['teams','round','Player', 'disposals', 'odds'])
     
     for game, game_url in zip(game_list, game_urls):
         driver.get(game_url)
@@ -109,8 +110,9 @@ def get_odds(r):
          output.loc[output['home']==key, 'home'] = team_mapping[key]
     for key in team_mapping.keys():
         output.loc[output['away']==key, 'away'] = team_mapping[key]     
-        
-    output.to_csv(f'/Users/caseyh/Desktop/footyfootyfooty/sportsbet_odds/r{r}/disposal_markets_{day}.csv', index = False)
+
+    directory = os.getcwd()
+    output.to_csv(f'{directory}/sportsbet_odds/r{r}/disposal_markets_{day}.csv', index = False)
 
 get_odds(r='19')
 
