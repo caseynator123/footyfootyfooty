@@ -59,13 +59,13 @@ def get_odds(r):
     
     for game, game_url in zip(game_list, game_urls):
         driver.get(game_url)
+
         try:
-            first_click = driver.find_element_by_xpath('(//*[@class="size14_f7opyze medium_f1wf24vo"])')
+            first_click = driver.find_element("xpath", '(//*[@class="size14_f7opyze medium_f1wf24vo"])')
             first_click.click()
-            
             for i in range(1,7):
-                if driver.find_element_by_xpath(f'(//*[@class="size14_f7opyze medium_f1wf24vo"])[{i}]').text == 'Disposal Markets':
-                    disposal_market = driver.find_element_by_xpath(f'(//*[@class="size14_f7opyze medium_f1wf24vo"])[{i}]')
+                if driver.find_element("xpath", f'(//*[@class="size14_f7opyze medium_f1wf24vo"])[{i}]').text == "Disposal Markets":
+                    disposal_market = driver.find_element("xpath", f'(//*[@class="size14_f7opyze medium_f1wf24vo"])[{i}]')
             
             
             disposal_market.click()
@@ -73,16 +73,16 @@ def get_odds(r):
             
             for i in range(5,50):
                 try:
-                    tmp = driver.find_element_by_xpath(f'(//*[@class="size14_f7opyze bold_f1au7gae"])[{i}]').text
+                    tmp = driver.find_element("xpath", f'(//*[@class="size14_f7opyze bold_f1au7gae"])[{i}]').text
                 except:
                     continue
                 if tmp in disposals:
     
-                    dis = driver.find_element_by_xpath(f'(//*[@class="size14_f7opyze bold_f1au7gae"])[{i}]')
+                    dis = driver.find_element("xpath", f'(//*[@class="size14_f7opyze bold_f1au7gae"])[{i}]')
     
                     dis.click()
     
-                    player = driver.find_element_by_xpath('(//*[@class="outcomeContainer_f1wc7xgg outcomeDetailsFirst_f162fqwy"])').text.split('\n')
+                    player = driver.find_element("xpath", '(//*[@class="outcomeContainer_f1wc7xgg outcomeDetailsFirst_f162fqwy"])').text.split('\n')
                     
                     new_row = {'Player': player[0].lower(), 'teams': f'{game[0][0]} v {game[0][1]}', 'round':f'R{r}', 'disposals':tmp,'odds':player[-1]}
                     output.loc[len(output)] = new_row
@@ -90,7 +90,7 @@ def get_odds(r):
                     for j in range(1,50):
                         try:
     
-                            tmp1 = driver.find_element_by_xpath(f'(//*[@class="outcomeContainer_f1wc7xgg"])[{j}]').text.split('\n')
+                            tmp1 = driver.find_element("xpath", f'(//*[@class="outcomeContainer_f1wc7xgg"])[{j}]').text.split('\n')
                             
                             new_row = {'Player': tmp1[0].lower(), 'teams': f'{game[0][0]} v {game[0][1]}', 'round':f'R{r}', 'disposals':tmp,'odds':tmp1[-1]}
                             output.loc[len(output)] = new_row
