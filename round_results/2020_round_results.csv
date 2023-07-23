@@ -1,145 +1,163 @@
 Date,Venue,Crowd,round,year,Home,Away,Home Score,Away Score
-Thu 19 Mar 7:40pm,MCG,,R1,2020,RCH,CAR,105,81
-Fri 20 Mar 7:50pm,Marvel Stadium,,R1,2020,WBD,COL,34,86
-Sat 21 Mar 2:10pm,Marvel Stadium,,R1,2020,ESS,FRE,63,57
-Sat 21 Mar 4:35pm,Adelaide Oval,,R1,2020,ADE,SYD,71,74
-Sat 21 Mar 6:40pm,Heritage Bank Stadium,,R1,2020,GCS,POR,29,76
-Sat 21 Mar 7:40pm,GIANTS Stadium,,R1,2020,GWS,GEE,105,73
-Sun 22 Mar 1:05pm,Marvel Stadium,,R1,2020,NTH,STK,56,54
-Sun 22 Mar 3:35pm,MCG,,R1,2020,HAW,BRL,90,62
-Sun 22 Mar 3:40pm,Optus Stadium,,R1,2020,WCE,MEL,78,51
-Thu 11 Jun 7:40pm,MCG,,R2,2020,COL,RCH,36,36
-Fri 12 Jun 7:50pm,GMHBA Stadium,,R2,2020,GEE,HAW,108,47
-Sat 13 Jun 1:45pm,Gabba,,R2,2020,BRL,FRE,81,69
-Sat 13 Jun 4:35pm,Marvel Stadium,,R2,2020,CAR,MEL,53,54
-Sat 13 Jun 7:10pm,Adelaide Oval,,R2,2020,POR,ADE,110,35
-Sat 13 Jun 7:40pm,Heritage Bank Stadium,,R2,2020,GCS,WCE,90,46
-Sun 14 Jun 1:05pm,GIANTS Stadium,,R2,2020,GWS,NTH,60,80
-Sun 14 Jun 3:35pm,SCG,,R2,2020,SYD,ESS,73,79
-Sun 14 Jun 6:05pm,Marvel Stadium,,R2,2020,STK,WBD,88,49
-Thu 18 Jun 7:40pm,MCG,,R3,2020,RCH,HAW,39,71
-Fri 19 Jun 7:50pm,Marvel Stadium,,R3,2020,WBD,GWS,57,33
-Sat 20 Jun 1:45pm,Marvel Stadium,,R3,2020,NTH,SYD,60,71
-Sat 20 Jun 4:35pm,MCG,,R3,2020,COL,STK,81,37
-Sat 20 Jun 7:40pm,GMHBA Stadium,,R3,2020,GEE,CAR,77,79
-Sat 20 Jun 7:40pm,Gabba,,R3,2020,BRL,WCE,74,44
-Sun 21 Jun 3:05pm,Heritage Bank Stadium,,R3,2020,GCS,ADE,82,29
-Sun 21 Jun 8:10pm,Heritage Bank Stadium,,R3,2020,FRE,POR,41,70
-Thu 25 Jun 7:40pm,SCG,,R4,2020,SYD,WBD,39,67
-Fri 26 Jun 7:50pm,GIANTS Stadium,,R4,2020,GWS,COL,66,64
-Sat 27 Jun 1:45pm,Heritage Bank Stadium,,R4,2020,POR,WCE,89,41
-Sat 27 Jun 4:35pm,Marvel Stadium,,R4,2020,STK,RCH,93,67
-Sat 27 Jun 7:40pm,Heritage Bank Stadium,,R4,2020,GCS,FRE,64,51
-Sat 27 Jun 7:40pm,MCG,,R4,2020,ESS,CAR,51,52
-Sun 28 Jun 1:05pm,Gabba,,R4,2020,BRL,ADE,83,46
-Sun 28 Jun 3:35pm,MCG,,R4,2020,MEL,GEE,44,47
-Sun 28 Jun 6:10pm,Marvel Stadium,,R4,2020,HAW,NTH,58,54
-Thu 2 Jul 7:40pm,Marvel Stadium,,R5,2020,CAR,STK,55,73
-Fri 3 Jul 7:50pm,MCG,,R5,2020,COL,ESS,48,63
-Sat 4 Jul 1:45pm,Heritage Bank Stadium,,R5,2020,WCE,SYD,77,43
-Sat 4 Jul 4:35pm,GMHBA Stadium,,R5,2020,GEE,GCS,89,52
-Sat 4 Jul 7:40pm,Gabba,,R5,2020,BRL,POR,85,48
-Sat 4 Jul 7:40pm,Marvel Stadium,,R5,2020,WBD,NTH,87,38
-Sun 5 Jul 1:05pm,Heritage Bank Stadium,,R5,2020,ADE,FRE,34,54
-Sun 5 Jul 3:35pm,MCG,,R5,2020,MEL,RCH,52,79
-Sun 5 Jul 6:10pm,GIANTS Stadium,,R5,2020,GWS,HAW,83,49
-Thu 9 Jul 7:40pm,SCG,,R6,2020,GEE,BRL,73,46
-Fri 10 Jul 7:50pm,GIANTS Stadium,,R6,2020,COL,HAW,59,27
-Sat 11 Jul 12:35pm,Heritage Bank Stadium,,R6,2020,FRE,STK,79,73
-Sat 11 Jul 3:05pm,Gabba,,R6,2020,WCE,ADE,67,34
-Sat 11 Jul 6:05pm,GIANTS Stadium,,R6,2020,MEL,GCS,80,63
-Sat 11 Jul 7:40pm,Heritage Bank Stadium,,R6,2020,ESS,NTH,67,53
-Sun 12 Jul 1:05pm,Heritage Bank Stadium,,R6,2020,POR,GWS,63,46
-Sun 12 Jul 3:35pm,Gabba,,R6,2020,RCH,SYD,34,26
-Sun 12 Jul 6:45pm,Heritage Bank Stadium,,R6,2020,CAR,WBD,103,51
-Thu 16 Jul 6:10pm,Optus Stadium,,R7,2020,GEE,COL,35,57
-Fri 17 Jul 7:50pm,Heritage Bank Stadium,,R7,2020,ESS,WBD,51,93
-Sat 18 Jul 1:45pm,GIANTS Stadium,,R7,2020,GWS,BRL,68,88
-Sat 18 Jul 4:35pm,SCG,,R7,2020,SYD,GCS,60,92
-Sat 18 Jul 7:40pm,Heritage Bank Stadium,,R7,2020,RCH,NTH,77,23
-Sun 19 Jul 1:05pm,Gabba,,R7,2020,CAR,POR,61,64
-Sun 19 Jul 3:35pm,GIANTS Stadium,,R7,2020,HAW,MEL,48,91
-Sun 19 Jul 4:35pm,Optus Stadium,,R7,2020,FRE,WCE,32,62
-Mon 20 Jul 7:10pm,Adelaide Oval,,R7,2020,ADE,STK,55,78
-Thu 23 Jul 7:40pm,Heritage Bank Stadium,,R8,2020,GCS,WBD,46,51
-Fri 24 Jul 7:50pm,GIANTS Stadium,,R8,2020,GWS,RCH,62,50
-Sat 25 Jul 1:05pm,Gabba,,R8,2020,NTH,CAR,57,64
-Sat 25 Jul 3:35pm,SCG,,R8,2020,SYD,HAW,60,53
-Sat 25 Jul 7:10pm,Adelaide Oval,,R8,2020,POR,STK,44,73
-Sun 26 Jul 12:35pm,Adelaide Oval,,R8,2020,ADE,ESS,59,62
-Sun 26 Jul 1:35pm,Optus Stadium,,R8,2020,WCE,COL,111,45
-Sun 26 Jul 6:10pm,Heritage Bank Stadium,,R8,2020,MEL,BRL,49,53
-Mon 27 Jul 6:10pm,Optus Stadium,,R8,2020,FRE,GEE,16,48
-Wed 29 Jul 7:10pm,Heritage Bank Stadium,,R9,2020,WBD,RCH,49,90
-Thu 30 Jul 7:50pm,Gabba,,R9,2020,MEL,POR,32,83
-Fri 31 Jul 3:40pm,Optus Stadium,,R9,2020,CAR,HAW,58,89
-Fri 31 Jul 8:10pm,Heritage Bank Stadium,,R9,2020,ESS,BRL,28,91
-Sat 1 Aug 2:35pm,Heritage Bank Stadium,,R9,2020,NTH,ADE,119,50
-Sat 1 Aug 5:10pm,Gabba,,R9,2020,STK,SYD,101,48
-Sat 1 Aug 6:10pm,Optus Stadium,,R9,2020,WCE,GEE,73,64
-Sun 2 Aug 3:35pm,Heritage Bank Stadium,,R9,2020,GCS,GWS,35,61
-Sun 2 Aug 4:10pm,Optus Stadium,,R9,2020,FRE,COL,61,49
-Mon 3 Aug 6:40pm,Adelaide Oval,,R10,2020,POR,WBD,55,42
-Tue 4 Aug 7:10pm,Heritage Bank Stadium,,R10,2020,RCH,BRL,82,41
-Wed 5 Aug 5:40pm,Gabba,,R10,2020,GEE,NTH,90,57
-Wed 5 Aug 7:40pm,Adelaide Oval,,R10,2020,ADE,MEL,37,88
-Thu 6 Aug 5:40pm,Gabba,,R10,2020,COL,SYD,50,41
-Thu 6 Aug 8:10pm,Heritage Bank Stadium,,R10,2020,GCS,STK,74,78
-Fri 7 Aug 7:50pm,Heritage Bank Stadium,,R10,2020,ESS,GWS,55,59
-Sat 8 Aug 4:05pm,Adelaide Oval,,R11,2020,POR,RCH,93,72
-Sat 8 Aug 7:40pm,Gabba,,R11,2020,BRL,WBD,96,72
-Sun 9 Aug 1:35pm,Optus Stadium,,R11,2020,WCE,CAR,72,50
-Sun 9 Aug 5:40pm,Adelaide Oval,,R11,2020,MEL,NTH,92,35
-Mon 10 Aug 6:10pm,Gabba,,R11,2020,STK,GEE,34,93
-Mon 10 Aug 6:40pm,Optus Stadium,,R11,2020,FRE,HAW,48,32
-Tue 11 Aug 6:05pm,Adelaide Oval,,R11,2020,ADE,COL,38,62
-Wed 12 Aug 7:10pm,Heritage Bank Stadium,,R11,2020,GCS,ESS,73,73
-Thu 13 Aug 6:10pm,Optus Stadium,,R12,2020,SYD,GWS,66,25
-Fri 14 Aug 7:50pm,Gabba,,R12,2020,GEE,POR,91,31
-Sat 15 Aug 2:35pm,Blundstone Arena,,R12,2020,NTH,BRL,52,53
-Sat 15 Aug 5:10pm,Gabba,,R12,2020,MEL,COL,100,44
-Sat 15 Aug 6:10pm,Optus Stadium,,R12,2020,FRE,CAR,36,40
-Sun 16 Aug 1:05pm,Heritage Bank Stadium,,R12,2020,WBD,ADE,111,54
-Sun 16 Aug 3:35pm,Gabba,,R12,2020,STK,ESS,68,33
-Sun 16 Aug 4:10pm,Optus Stadium,,R12,2020,WCE,HAW,81,49
-Mon 17 Aug 7:10pm,Gabba,,R12,2020,RCH,GCS,53,32
-Fri 21 Aug 7:20pm,TIO Stadium,,R13,2020,GCS,CAR,27,60
-Sat 22 Aug 1:45pm,Heritage Bank Stadium,,R13,2020,WBD,MEL,80,52
-Sat 22 Aug 4:05pm,Adelaide Oval,,R13,2020,POR,HAW,68,58
-Sat 22 Aug 6:10pm,Optus Stadium,,R13,2020,FRE,SYD,50,19
-Sat 22 Aug 7:15pm,TIO Stadium,,R13,2020,ESS,RCH,61,73
-Sun 23 Aug 12:35pm,Adelaide Oval,,R13,2020,ADE,GEE,37,65
-Sun 23 Aug 3:35pm,Gabba,,R13,2020,BRL,STK,50,48
-Sun 23 Aug 4:10pm,Optus Stadium,,R13,2020,WCE,GWS,61,49
-Mon 24 Aug 7:10pm,Gabba,,R13,2020,COL,NTH,65,35
-Thu 27 Aug 4:10pm,Adelaide Oval,,R14,2020,HAW,ESS,71,87
-Thu 27 Aug 7:10pm,Heritage Bank Stadium,,R14,2020,RCH,WCE,88,61
-Fri 28 Aug 7:50pm,Heritage Bank Stadium,,R14,2020,WBD,GEE,61,72
-Sat 29 Aug 1:15pm,Adelaide Oval,,R14,2020,POR,SYD,73,47
-Sat 29 Aug 2:35pm,Optus Stadium,,R14,2020,FRE,GWS,53,91
-Sat 29 Aug 7:10pm,TIO Traegar Park,,R14,2020,MEL,STK,52,49
-Sun 30 Aug 3:35pm,Gabba,,R14,2020,CAR,COL,48,72
-Sun 30 Aug 6:10pm,Heritage Bank Stadium,,R14,2020,GCS,NTH,91,28
-Tue 1 Sep 5:10pm,Adelaide Oval,,R15,2020,HAW,ADE,48,83
-Tue 1 Sep 8:10pm,Gabba,,R15,2020,WCE,ESS,60,45
-Wed 2 Sep 7:10pm,Heritage Bank Stadium,,R15,2020,RCH,FRE,56,29
-Thu 3 Sep 4:40pm,Cazaly's Stadium,,R15,2020,SYD,MEL,67,46
-Thu 3 Sep 7:10pm,Heritage Bank Stadium,,R15,2020,GWS,CAR,48,39
-Fri 4 Sep 7:50pm,Gabba,,R15,2020,BRL,COL,42,34
-Sat 5 Sep 7:40pm,Heritage Bank Stadium,,R16,2020,NTH,POR,42,78
-Sun 6 Sep 1:05pm,Heritage Bank Stadium,,R16,2020,STK,HAW,80,66
-Sun 6 Sep 3:35pm,Gabba,,R16,2020,GEE,ESS,108,42
-Sun 6 Sep 6:10pm,Heritage Bank Stadium,,R16,2020,WBD,WCE,49,47
-Mon 7 Sep 7:10pm,Cazaly's Stadium,,R16,2020,MEL,FRE,33,47
-Tue 8 Sep 5:10pm,Adelaide Oval,,R16,2020,ADE,GWS,59,47
-Tue 8 Sep 8:10pm,Heritage Bank Stadium,,R16,2020,CAR,SYD,57,52
-Wed 9 Sep 7:10pm,Gabba,,R16,2020,BRL,GCS,88,43
-Thu 10 Sep 7:10pm,Gabba,,R17,2020,STK,WCE,50,65
-Fri 11 Sep 7:50pm,Heritage Bank Stadium,,R17,2020,GEE,RCH,31,57
-Sat 12 Sep 1:45pm,Heritage Bank Stadium,,R17,2020,NTH,FRE,35,99
-Sat 12 Sep 4:05pm,Adelaide Oval,,R17,2020,POR,ESS,79,29
-Sat 12 Sep 7:40pm,Gabba,,R17,2020,GWS,MEL,74,79
-Sun 13 Sep 1:05pm,Heritage Bank Stadium,,R17,2020,CAR,ADE,56,72
-Sun 13 Sep 3:05pm,Adelaide Oval,,R17,2020,HAW,WBD,40,76
-Sun 13 Sep 6:10pm,Cazaly's Stadium,,R17,2020,SYD,BRL,41,73
-Mon 14 Sep 7:10pm,Gabba,,R17,2020,COL,GCS,68,46
+Thu 19 Mar 7:40pm,MCG,,Round 1,2020,RCH,CAR,105,81
+Fri 20 Mar 7:50pm,Marvel Stadium,,Round 1,2020,WBD,COL,34,86
+Sat 21 Mar 2:10pm,Marvel Stadium,,Round 1,2020,ESS,FRE,63,57
+Sat 21 Mar 4:35pm,Adelaide Oval,,Round 1,2020,ADE,SYD,71,74
+Sat 21 Mar 6:40pm,Heritage Bank Stadium,,Round 1,2020,GCS,POR,29,76
+Sat 21 Mar 7:40pm,GIANTS Stadium,,Round 1,2020,GWS,GEE,105,73
+Sun 22 Mar 1:05pm,Marvel Stadium,,Round 1,2020,NTH,STK,56,54
+Sun 22 Mar 3:35pm,MCG,,Round 1,2020,HAW,BRL,90,62
+Sun 22 Mar 3:40pm,Optus Stadium,,Round 1,2020,WCE,MEL,78,51
+Thu 11 Jun 7:40pm,MCG,,Round 2,2020,COL,RCH,36,36
+Fri 12 Jun 7:50pm,GMHBA Stadium,,Round 2,2020,GEE,HAW,108,47
+Sat 13 Jun 1:45pm,Gabba,,Round 2,2020,BRL,FRE,81,69
+Sat 13 Jun 4:35pm,Marvel Stadium,,Round 2,2020,CAR,MEL,53,54
+Sat 13 Jun 7:10pm,Adelaide Oval,,Round 2,2020,POR,ADE,110,35
+Sat 13 Jun 7:40pm,Heritage Bank Stadium,,Round 2,2020,GCS,WCE,90,46
+Sun 14 Jun 1:05pm,GIANTS Stadium,,Round 2,2020,GWS,NTH,60,80
+Sun 14 Jun 3:35pm,SCG,,Round 2,2020,SYD,ESS,73,79
+Sun 14 Jun 6:05pm,Marvel Stadium,,Round 2,2020,STK,WBD,88,49
+Thu 18 Jun 7:40pm,MCG,,Round 3,2020,RCH,HAW,39,71
+Fri 19 Jun 7:50pm,Marvel Stadium,,Round 3,2020,WBD,GWS,57,33
+Sat 20 Jun 1:45pm,Marvel Stadium,,Round 3,2020,NTH,SYD,60,71
+Sat 20 Jun 4:35pm,MCG,,Round 3,2020,COL,STK,81,37
+Sat 20 Jun 7:40pm,GMHBA Stadium,,Round 3,2020,GEE,CAR,77,79
+Sat 20 Jun 7:40pm,Gabba,,Round 3,2020,BRL,WCE,74,44
+Sun 21 Jun 3:05pm,Heritage Bank Stadium,,Round 3,2020,GCS,ADE,82,29
+Sun 21 Jun 8:10pm,Heritage Bank Stadium,,Round 3,2020,FRE,POR,41,70
+Thu 25 Jun 7:40pm,SCG,,Round 4,2020,SYD,WBD,39,67
+Fri 26 Jun 7:50pm,GIANTS Stadium,,Round 4,2020,GWS,COL,66,64
+Sat 27 Jun 1:45pm,Heritage Bank Stadium,,Round 4,2020,POR,WCE,89,41
+Sat 27 Jun 4:35pm,Marvel Stadium,,Round 4,2020,STK,RCH,93,67
+Sat 27 Jun 7:40pm,Heritage Bank Stadium,,Round 4,2020,GCS,FRE,64,51
+Sat 27 Jun 7:40pm,MCG,,Round 4,2020,ESS,CAR,51,52
+Sun 28 Jun 1:05pm,Gabba,,Round 4,2020,BRL,ADE,83,46
+Sun 28 Jun 3:35pm,MCG,,Round 4,2020,MEL,GEE,44,47
+Sun 28 Jun 6:10pm,Marvel Stadium,,Round 4,2020,HAW,NTH,58,54
+Thu 2 Jul 7:40pm,Marvel Stadium,,Round 5,2020,CAR,STK,55,73
+Fri 3 Jul 7:50pm,MCG,,Round 5,2020,COL,ESS,48,63
+Sat 4 Jul 1:45pm,Heritage Bank Stadium,,Round 5,2020,WCE,SYD,77,43
+Sat 4 Jul 4:35pm,GMHBA Stadium,,Round 5,2020,GEE,GCS,89,52
+Sat 4 Jul 7:40pm,Gabba,,Round 5,2020,BRL,POR,85,48
+Sat 4 Jul 7:40pm,Marvel Stadium,,Round 5,2020,WBD,NTH,87,38
+Sun 5 Jul 1:05pm,Heritage Bank Stadium,,Round 5,2020,ADE,FRE,34,54
+Sun 5 Jul 3:35pm,MCG,,Round 5,2020,MEL,RCH,52,79
+Sun 5 Jul 6:10pm,GIANTS Stadium,,Round 5,2020,GWS,HAW,83,49
+Thu 9 Jul 7:40pm,SCG,,Round 6,2020,GEE,BRL,73,46
+Fri 10 Jul 7:50pm,GIANTS Stadium,,Round 6,2020,COL,HAW,59,27
+Sat 11 Jul 12:35pm,Heritage Bank Stadium,,Round 6,2020,FRE,STK,79,73
+Sat 11 Jul 3:05pm,Gabba,,Round 6,2020,WCE,ADE,67,34
+Sat 11 Jul 6:05pm,GIANTS Stadium,,Round 6,2020,MEL,GCS,80,63
+Sat 11 Jul 7:40pm,Heritage Bank Stadium,,Round 6,2020,ESS,NTH,67,53
+Sun 12 Jul 1:05pm,Heritage Bank Stadium,,Round 6,2020,POR,GWS,63,46
+Sun 12 Jul 3:35pm,Gabba,,Round 6,2020,RCH,SYD,34,26
+Sun 12 Jul 6:45pm,Heritage Bank Stadium,,Round 6,2020,CAR,WBD,103,51
+Thu 16 Jul 6:10pm,Optus Stadium,,Round 7,2020,GEE,COL,35,57
+Fri 17 Jul 7:50pm,Heritage Bank Stadium,,Round 7,2020,ESS,WBD,51,93
+Sat 18 Jul 1:45pm,GIANTS Stadium,,Round 7,2020,GWS,BRL,68,88
+Sat 18 Jul 4:35pm,SCG,,Round 7,2020,SYD,GCS,60,92
+Sat 18 Jul 7:40pm,Heritage Bank Stadium,,Round 7,2020,RCH,NTH,77,23
+Sun 19 Jul 1:05pm,Gabba,,Round 7,2020,CAR,POR,61,64
+Sun 19 Jul 3:35pm,GIANTS Stadium,,Round 7,2020,HAW,MEL,48,91
+Sun 19 Jul 4:35pm,Optus Stadium,,Round 7,2020,FRE,WCE,32,62
+Mon 20 Jul 7:10pm,Adelaide Oval,,Round 7,2020,ADE,STK,55,78
+Thu 23 Jul 7:40pm,Heritage Bank Stadium,,Round 8,2020,GCS,WBD,46,51
+Fri 24 Jul 7:50pm,GIANTS Stadium,,Round 8,2020,GWS,RCH,62,50
+Sat 25 Jul 1:05pm,Gabba,,Round 8,2020,NTH,CAR,57,64
+Sat 25 Jul 3:35pm,SCG,,Round 8,2020,SYD,HAW,60,53
+Sat 25 Jul 7:10pm,Adelaide Oval,,Round 8,2020,POR,STK,44,73
+Sun 26 Jul 12:35pm,Adelaide Oval,,Round 8,2020,ADE,ESS,59,62
+Sun 26 Jul 1:35pm,Optus Stadium,,Round 8,2020,WCE,COL,111,45
+Sun 26 Jul 6:10pm,Heritage Bank Stadium,,Round 8,2020,MEL,BRL,49,53
+Mon 27 Jul 6:10pm,Optus Stadium,,Round 8,2020,FRE,GEE,16,48
+Wed 29 Jul 7:10pm,Heritage Bank Stadium,,Round 9,2020,WBD,RCH,49,90
+Thu 30 Jul 7:50pm,Gabba,,Round 9,2020,MEL,POR,32,83
+Fri 31 Jul 3:40pm,Optus Stadium,,Round 9,2020,CAR,HAW,58,89
+Fri 31 Jul 8:10pm,Heritage Bank Stadium,,Round 9,2020,ESS,BRL,28,91
+Sat 1 Aug 2:35pm,Heritage Bank Stadium,,Round 9,2020,NTH,ADE,119,50
+Sat 1 Aug 5:10pm,Gabba,,Round 9,2020,STK,SYD,101,48
+Sat 1 Aug 6:10pm,Optus Stadium,,Round 9,2020,WCE,GEE,73,64
+Sun 2 Aug 3:35pm,Heritage Bank Stadium,,Round 9,2020,GCS,GWS,35,61
+Sun 2 Aug 4:10pm,Optus Stadium,,Round 9,2020,FRE,COL,61,49
+Mon 3 Aug 6:40pm,Adelaide Oval,,Round 10,2020,POR,WBD,55,42
+Tue 4 Aug 7:10pm,Heritage Bank Stadium,,Round 10,2020,RCH,BRL,82,41
+Wed 5 Aug 5:40pm,Gabba,,Round 10,2020,GEE,NTH,90,57
+Wed 5 Aug 7:40pm,Adelaide Oval,,Round 10,2020,ADE,MEL,37,88
+Thu 6 Aug 5:40pm,Gabba,,Round 10,2020,COL,SYD,50,41
+Thu 6 Aug 8:10pm,Heritage Bank Stadium,,Round 10,2020,GCS,STK,74,78
+Fri 7 Aug 7:50pm,Heritage Bank Stadium,,Round 10,2020,ESS,GWS,55,59
+Sat 8 Aug 4:05pm,Adelaide Oval,,Round 11,2020,POR,RCH,93,72
+Sat 8 Aug 7:40pm,Gabba,,Round 11,2020,BRL,WBD,96,72
+Sun 9 Aug 1:35pm,Optus Stadium,,Round 11,2020,WCE,CAR,72,50
+Sun 9 Aug 5:40pm,Adelaide Oval,,Round 11,2020,MEL,NTH,92,35
+Mon 10 Aug 6:10pm,Gabba,,Round 11,2020,STK,GEE,34,93
+Mon 10 Aug 6:40pm,Optus Stadium,,Round 11,2020,FRE,HAW,48,32
+Tue 11 Aug 6:05pm,Adelaide Oval,,Round 11,2020,ADE,COL,38,62
+Wed 12 Aug 7:10pm,Heritage Bank Stadium,,Round 11,2020,GCS,ESS,73,73
+Thu 13 Aug 6:10pm,Optus Stadium,,Round 12,2020,SYD,GWS,66,25
+Fri 14 Aug 7:50pm,Gabba,,Round 12,2020,GEE,POR,91,31
+Sat 15 Aug 2:35pm,Blundstone Arena,,Round 12,2020,NTH,BRL,52,53
+Sat 15 Aug 5:10pm,Gabba,,Round 12,2020,MEL,COL,100,44
+Sat 15 Aug 6:10pm,Optus Stadium,,Round 12,2020,FRE,CAR,36,40
+Sun 16 Aug 1:05pm,Heritage Bank Stadium,,Round 12,2020,WBD,ADE,111,54
+Sun 16 Aug 3:35pm,Gabba,,Round 12,2020,STK,ESS,68,33
+Sun 16 Aug 4:10pm,Optus Stadium,,Round 12,2020,WCE,HAW,81,49
+Mon 17 Aug 7:10pm,Gabba,,Round 12,2020,RCH,GCS,53,32
+Fri 21 Aug 7:20pm,TIO Stadium,,Round 13,2020,GCS,CAR,27,60
+Sat 22 Aug 1:45pm,Heritage Bank Stadium,,Round 13,2020,WBD,MEL,80,52
+Sat 22 Aug 4:05pm,Adelaide Oval,,Round 13,2020,POR,HAW,68,58
+Sat 22 Aug 6:10pm,Optus Stadium,,Round 13,2020,FRE,SYD,50,19
+Sat 22 Aug 7:15pm,TIO Stadium,,Round 13,2020,ESS,RCH,61,73
+Sun 23 Aug 12:35pm,Adelaide Oval,,Round 13,2020,ADE,GEE,37,65
+Sun 23 Aug 3:35pm,Gabba,,Round 13,2020,BRL,STK,50,48
+Sun 23 Aug 4:10pm,Optus Stadium,,Round 13,2020,WCE,GWS,61,49
+Mon 24 Aug 7:10pm,Gabba,,Round 13,2020,COL,NTH,65,35
+Thu 27 Aug 4:10pm,Adelaide Oval,,Round 14,2020,HAW,ESS,71,87
+Thu 27 Aug 7:10pm,Heritage Bank Stadium,,Round 14,2020,RCH,WCE,88,61
+Fri 28 Aug 7:50pm,Heritage Bank Stadium,,Round 14,2020,WBD,GEE,61,72
+Sat 29 Aug 1:15pm,Adelaide Oval,,Round 14,2020,POR,SYD,73,47
+Sat 29 Aug 2:35pm,Optus Stadium,,Round 14,2020,FRE,GWS,53,91
+Sat 29 Aug 7:10pm,TIO Traegar Park,,Round 14,2020,MEL,STK,52,49
+Sun 30 Aug 3:35pm,Gabba,,Round 14,2020,CAR,COL,48,72
+Sun 30 Aug 6:10pm,Heritage Bank Stadium,,Round 14,2020,GCS,NTH,91,28
+Tue 1 Sep 5:10pm,Adelaide Oval,,Round 15,2020,HAW,ADE,48,83
+Tue 1 Sep 8:10pm,Gabba,,Round 15,2020,WCE,ESS,60,45
+Wed 2 Sep 7:10pm,Heritage Bank Stadium,,Round 15,2020,RCH,FRE,56,29
+Thu 3 Sep 4:40pm,Cazaly's Stadium,,Round 15,2020,SYD,MEL,67,46
+Thu 3 Sep 7:10pm,Heritage Bank Stadium,,Round 15,2020,GWS,CAR,48,39
+Fri 4 Sep 7:50pm,Gabba,,Round 15,2020,BRL,COL,42,34
+Sat 5 Sep 7:40pm,Heritage Bank Stadium,,Round 16,2020,NTH,POR,42,78
+Sun 6 Sep 1:05pm,Heritage Bank Stadium,,Round 16,2020,STK,HAW,80,66
+Sun 6 Sep 3:35pm,Gabba,,Round 16,2020,GEE,ESS,108,42
+Sun 6 Sep 6:10pm,Heritage Bank Stadium,,Round 16,2020,WBD,WCE,49,47
+Mon 7 Sep 7:10pm,Cazaly's Stadium,,Round 16,2020,MEL,FRE,33,47
+Tue 8 Sep 5:10pm,Adelaide Oval,,Round 16,2020,ADE,GWS,59,47
+Tue 8 Sep 8:10pm,Heritage Bank Stadium,,Round 16,2020,CAR,SYD,57,52
+Wed 9 Sep 7:10pm,Gabba,,Round 16,2020,BRL,GCS,88,43
+Thu 10 Sep 7:10pm,Gabba,,Round 17,2020,STK,WCE,50,65
+Fri 11 Sep 7:50pm,Heritage Bank Stadium,,Round 17,2020,GEE,RCH,31,57
+Sat 12 Sep 1:45pm,Heritage Bank Stadium,,Round 17,2020,NTH,FRE,35,99
+Sat 12 Sep 4:05pm,Adelaide Oval,,Round 17,2020,POR,ESS,79,29
+Sat 12 Sep 7:40pm,Gabba,,Round 17,2020,GWS,MEL,74,79
+Sun 13 Sep 1:05pm,Heritage Bank Stadium,,Round 17,2020,CAR,ADE,56,72
+Sun 13 Sep 3:05pm,Adelaide Oval,,Round 17,2020,HAW,WBD,40,76
+Sun 13 Sep 6:10pm,Cazaly's Stadium,,Round 17,2020,SYD,BRL,41,73
+Mon 14 Sep 7:10pm,Gabba,,Round 17,2020,COL,GCS,68,46
+Thu 17 Sep 7:10pm,Heritage Bank Stadium,,Round 18,2020,NTH,WCE,34,49
+Fri 18 Sep 7:50pm,Gabba,,Round 18,2020,STK,GWS,82,30
+Sat 19 Sep 2:10pm,Heritage Bank Stadium,,Round 18,2020,ESS,MEL,49,68
+Sat 19 Sep 4:40pm,Adelaide Oval,,Round 18,2020,ADE,RCH,33,77
+Sat 19 Sep 7:40pm,Gabba,,Round 18,2020,BRL,CAR,78,61
+Sun 20 Sep 12:35pm,Adelaide Oval,,Round 18,2020,HAW,GCS,108,57
+Sun 20 Sep 3:35pm,Heritage Bank Stadium,,Round 18,2020,SYD,GEE,63,69
+Sun 20 Sep 6:10pm,Cazaly's Stadium,,Round 18,2020,FRE,WBD,44,74
+Mon 21 Sep 7:15pm,Gabba,,Round 18,2020,COL,POR,45,61
+Thu 1 Oct 7:10pm,Adelaide Oval,,QF,2020,POR,GEE,58,42
+Fri 2 Oct 7:50pm,Gabba,,QF,2020,BRL,RCH,69,54
+Sat 3 Oct 4:40pm,Gabba,,EF,2020,STK,WBD,67,64
+Sat 3 Oct 6:10pm,Optus Stadium,,EF,2020,WCE,COL,75,76
+Fri 9 Oct 6:50pm,Heritage Bank Stadium,,SF,2020,RCH,STK,80,49
+Sat 10 Oct 6:40pm,Gabba,,SF,2020,GEE,COL,100,32
+Fri 16 Oct 7:20pm,Adelaide Oval,,PF,2020,POR,RCH,40,46
+Sat 17 Oct 6:40pm,Gabba,,PF,2020,BRL,GEE,42,82
+Sat 24 Oct 6:30pm,Gabba,,GF,2020,RCH,GEE,81,50
