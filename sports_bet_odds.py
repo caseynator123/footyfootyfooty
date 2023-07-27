@@ -17,18 +17,19 @@ import requests
 from datetime import datetime
 
 disposals = ['To Get 15 or More Disposals',
-            'To Get 20 or More Disposals',
-            'To Get 25 or More Disposals',
-            'To Get 30 or More Disposals']
-team_mapping = {'richmond':'RCH','geelong':'GEE',
-                'north-melbourne':'NTH','port-adelaide':'POR',
-                'gold-coast':'GCS','melbourne':'MEL',
-                'greater-western-sydney':'GWS','hawthorn':'HAW',
-                'carlton':'CAR','brisbane':'BRL',
-                'collingwood':'COL','adelaide':'ADE',
-                'fremantle':'FRE','western-bulldogs':'WBD',
-                'sydney':'SYD','west-coast':'WCE',
-                'st-kilda':'STK','essendon':'ESS'}
+             'To Get 20 or More Disposals',
+             'To Get 25 or More Disposals',
+             'To Get 30 or More Disposals']
+team_mapping = {'richmond': 'RCH', 'geelong': 'GEE',
+                'north-melbourne': 'NTH', 'port-adelaide': 'POR',
+                'gold-coast': 'GCS', 'melbourne': 'MEL',
+                'greater-western-sydney': 'GWS', 'hawthorn': 'HAW',
+                'carlton': 'CAR', 'brisbane': 'BRL',
+                'collingwood': 'COL', 'adelaide': 'ADE',
+                'fremantle': 'FRE', 'western-bulldogs': 'WBD',
+                'sydney': 'SYD', 'west-coast': 'WCE',
+                'st-kilda': 'STK', 'essendon': 'ESS'}
+
 
 def get_odds(r):
     url = f'https://www.sportsbet.com.au/betting/australian-rules/afl/round-{r}'
@@ -107,36 +108,13 @@ def get_odds(r):
     output['away'] = output['teams'].apply(lambda x: x.split(' v ')[1])
     
     for key in team_mapping.keys():
-         output.loc[output['home']==key, 'home'] = team_mapping[key]
+        output.loc[output['home']==key, 'home'] = team_mapping[key]
     for key in team_mapping.keys():
         output.loc[output['away']==key, 'away'] = team_mapping[key]     
 
     directory = os.getcwd()
-    output.to_csv(f'{directory}/sportsbet_odds/r{r}/disposal_markets_{day}.csv', index = False)
-
-get_odds(r='19')
+    output.to_csv(f'{directory}/sportsbet_odds/r{r}/disposal_markets_{day}.csv', index=False)
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+get_odds(r='20')
 
