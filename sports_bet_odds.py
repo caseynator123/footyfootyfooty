@@ -108,9 +108,9 @@ def get_odds(r):
     output['away'] = output['teams'].apply(lambda x: x.split(' v ')[1])
     
     for key in team_mapping.keys():
-        output.loc[output['home']==key, 'home'] = team_mapping[key]
+        output.loc[output['home'] == key, 'home'] = team_mapping[key]
     for key in team_mapping.keys():
-        output.loc[output['away']==key, 'away'] = team_mapping[key]     
+        output.loc[output['away'] == key, 'away'] = team_mapping[key]
 
     directory = os.getcwd()
     output.to_csv(f'{directory}/sportsbet_odds/r{r}/disposal_markets_{day}.csv', index=False)
